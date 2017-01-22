@@ -1,0 +1,25 @@
+#EXTM3U
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SR Fernsehen HD 1080P DE" tvg-logo="" group-title="Germany",SR Fernsehen HD 1080P DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15749.ts
+#EXTINF:-1 tvg-id="" tvg-name="tagesschau24 HD 1080P DE" tvg-logo="" group-title="Germany",tagesschau24 HD 1080P DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15752.ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MDR S-Anhalt HD 1080P DE" tvg-logo="" group-title="Germany",MDR S-Anhalt HD 1080P DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15750.ts
+#EXTINF:-1 tvg-id="" tvg-name="MDR Sachsen HD 1080P DE" tvg-logo="" group-title="Germany",MDR Sachsen HD 1080P DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15755.ts
+#EXTINF:-1 tvg-id="" tvg-name="MDR Thüringen HD 1080P DE" tvg-logo="" group-title="Germany",MDR Thüringen HD 1080P DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15742.ts
