@@ -1,0 +1,126 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="NAT_GEO_WILD_RO" tvg-logo="https://scontent.cdninstagram.com/t51.2885-19/11821654_868104293227415_1438060075_a.jpg" group-title="ROMANIAN",NAT_GEO_WILD_RO
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1845.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Crime_&_Investigation" tvg-logo="http://vector.me/files/images/7/9/796198/crime_investigation_network_hd.png" group-title="ROMANIAN",Crime_&_Investigation
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1891.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Digi_Sport_4" tvg-logo="http://oklivetv.com/wp-content/uploads/media/a269f18cae49989792ef2d8e873b18db.jpeg" group-title="ROMANIAN",Digi_Sport_4
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1902.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Digi_Sport_2" tvg-logo="https://soombo.com/assets/images/200_1459836890.png" group-title="ROMANIAN",Digi_Sport_2
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1907.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Digi_Sport_3" tvg-logo="https://soombo.com/assets/images/200_1459836750.png" group-title="ROMANIAN",Digi_Sport_3
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1906.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LOOK_PLUS" tvg-logo="http://www.consultantahr.ro/looktv-transilvania-look-adela-popovici-agentia-azaleea-babsitter-cluj-bona-cluj-angajez-bona-agentie-serioasa1.png" group-title="ROMANIAN",LOOK_PLUS
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/2400.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Digi_Sport_1" tvg-logo="https://soombo.com/assets/images/200_1459836992.png" group-title="ROMANIAN",Digi_Sport_1
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/2399.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LOOK_TV" tvg-logo="http://dbytv.com/wp-content/uploads/2016/03/Look_TV_logo.png" group-title="ROMANIAN",LOOK_TV
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/2477.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT2_RO" tvg-logo="http://www.satfrequency.com/wp-content/uploads/2015/01/Eurosport-2-Satellite-Frequency.gif" group-title="ROMANIAN",EUROSPORT2_RO
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/232.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT_RO" tvg-logo="https://alloforfait.fr/wp-content/uploads/2015/02/eurosport-300x200.jpg" group-title="ROMANIAN",EUROSPORT_RO
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1903.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT.RO" tvg-logo="http://absoluto.ro/wp-content/uploads/2012/12/sport-ro-logo.jpg" group-title="ROMANIAN",SPORT.RO
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1897.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FAVORIT_TV" tvg-logo="" group-title="ROMANIAN",FAVORIT_TV
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1895.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Viasat_Nature" tvg-logo="" group-title="ROMANIAN",Viasat_Nature
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1889.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Viasat_History" tvg-logo="" group-title="ROMANIAN",Viasat_History
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1894.ts
+#EXTINF:-1 tvg-ID="" tvg-name="National_Geographic" tvg-logo="" group-title="ROMANIAN",National_Geographic
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1910.ts
+#EXTINF:-1 tvg-ID="" tvg-name="History_Channel" tvg-logo="" group-title="ROMANIAN",History_Channel
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1917.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fishing_&_Hunting" tvg-logo="" group-title="ROMANIAN",Fishing_&_Hunting
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1918.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Digi_Animal_World" tvg-logo="" group-title="ROMANIAN",Digi_Animal_World
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/2394.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Digi_World" tvg-logo="" group-title="ROMANIAN",Digi_World
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1908.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Digi_Life" tvg-logo="" group-title="ROMANIAN",Digi_Life
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1916.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVR_1" tvg-logo="" group-title="ROMANIAN",TVR_1
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1887.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVR_2" tvg-logo="" group-title="ROMANIAN",TVR_2
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1886.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Digi_24" tvg-logo="" group-title="ROMANIAN",Digi_24
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1885.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ProTV" tvg-logo="" group-title="ROMANIAN",ProTV
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1884.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Kanal_D" tvg-logo="" group-title="ROMANIAN",Kanal_D
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1877.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Antena_1" tvg-logo="" group-title="ROMANIAN",Antena_1
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1878.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Antena_3" tvg-logo="" group-title="ROMANIAN",Antena_3
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1872.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Antena_Stars" tvg-logo="" group-title="ROMANIAN",Antena_Stars
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1867.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Prima_Tv" tvg-logo="" group-title="ROMANIAN",Prima_Tv
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1873.ts
+#EXTINF:-1 tvg-ID="" tvg-name="B1_Tv" tvg-logo="" group-title="ROMANIAN",B1_Tv
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1874.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Happy_Channel" tvg-logo="" group-title="ROMANIAN",Happy_Channel
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1871.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Romania_Tv" tvg-logo="" group-title="ROMANIAN",Romania_Tv
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1870.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Realitatea_Tv" tvg-logo="" group-title="ROMANIAN",Realitatea_Tv
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1869.ts
+#EXTINF:-1 tvg-ID="" tvg-name="National_TV" tvg-logo="" group-title="ROMANIAN",National_TV
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1868.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Neptun_Tv" tvg-logo="" group-title="ROMANIAN",Neptun_Tv
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1876.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Acasa_TV" tvg-logo="" group-title="ROMANIAN",Acasa_TV
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1875.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Boomerang_ro" tvg-logo="" group-title="ROMANIAN",Boomerang_ro
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1866.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ProCinema" tvg-logo="" group-title="ROMANIAN",ProCinema
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1882.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cinemax_Ro" tvg-logo="" group-title="ROMANIAN",Cinemax_Ro
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1879.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cinemax_2" tvg-logo="" group-title="ROMANIAN",Cinemax_2
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1880.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Digi_Film" tvg-logo="" group-title="ROMANIAN",Digi_Film
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1865.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO_Romania" tvg-logo="" group-title="ROMANIAN",HBO_Romania
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1883.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO_2" tvg-logo="" group-title="ROMANIAN",HBO_2
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1864.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO_3" tvg-logo="" group-title="ROMANIAN",HBO_3
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1881.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV1000" tvg-logo="" group-title="ROMANIAN",TV1000
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1861.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Paramount_Channel" tvg-logo="" group-title="ROMANIAN",Paramount_Channel
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1860.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN_Romania" tvg-logo="" group-title="ROMANIAN",AXN_Romania
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1859.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN_White" tvg-logo="" group-title="ROMANIAN",AXN_White
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1848.ts
+#EXTINF:-1 tvg-ID="" tvg-name="U_TV" tvg-logo="" group-title="ROMANIAN",U_TV
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1852.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Trinitas" tvg-logo="" group-title="ROMANIAN",Trinitas
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1854.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TNT" tvg-logo="" group-title="ROMANIAN",TNT
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1849.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Etno_Tv" tvg-logo="" group-title="ROMANIAN",Etno_Tv
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1847.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DIGI_24_Galati" tvg-logo="" group-title="ROMANIAN",DIGI_24_Galati
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1851.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DIGI_24_Craiova" tvg-logo="" group-title="ROMANIAN",DIGI_24_Craiova
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1850.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Agro_Tv" tvg-logo="" group-title="ROMANIAN",Agro_Tv
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1855.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Music_Channel" tvg-logo="" group-title="ROMANIAN",Music_Channel
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1853.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Taraf_Tv" tvg-logo="" group-title="ROMANIAN",Taraf_Tv
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1862.ts
+#EXTINF:-1 tvg-ID="" tvg-name="KISS_TV" tvg-logo="" group-title="ROMANIAN",KISS_TV
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1863.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney_Junior_ro" tvg-logo="" group-title="ROMANIAN",Disney_Junior_ro
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1858.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MINIMAX" tvg-logo="" group-title="ROMANIAN",MINIMAX
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1857.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Megamax" tvg-logo="" group-title="ROMANIAN",Megamax
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/1856.ts
