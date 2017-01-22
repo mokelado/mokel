@@ -52,8 +52,7 @@ http://pro.leaderiptv.com:8000/live/hamza11/hamza11/308.ts
 http://pro.leaderiptv.com:8000/live/hamza11/hamza11/306.ts
 #EXTINF:-1 tvg-ID="" tvg-name="CANAL_HD" tvg-logo="http://www.bbox-actus.com/img/large/canalplushd-logo.jpg" group-title="FRENSH",CANAL_HD
 http://pro.leaderiptv.com:8000/live/hamza11/hamza11/305.ts
-#EXTINF:-1 tvg-ID="" tvg-name="*-*-*-*-*CINE*-*-*-*-*" tvg-logo="http://a398.idata.over-blog.com/0/20/49/74/logos-hd/cine-plus.jpg" group-title="SPANISH",*-*-*-*-*CINE*-*-*-*-*
-http://www.all.com:8000/live/jL7dKQMzLI/B9ThAZB31B/497.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="CINE_EMOTION_HD" tvg-logo="http://img.over-blog.com/600x309/0/20/49/74/logos-hd/CinePlus/cine-eotion.jpg" group-title="FRENSH",CINE_EMOTION_HD
 http://pro.leaderiptv.com:8000/live/hamza11/hamza11/312.ts
 #EXTINF:-1 tvg-ID="" tvg-name="CINE_FAMIZ_HD" tvg-logo="https://static.numericable.tv/chaines/nctvLogo/270x200/CINE+FAMIZ.png" group-title="FRENSH",CINE_FAMIZ_HD
