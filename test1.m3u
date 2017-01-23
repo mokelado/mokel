@@ -1,0 +1,32 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Das Erste DE" tvg-name="Das Erste  DE" tvg-logo="http://secure.clientportal.link/picons/daserstehd.png" group-title="Germany",Das Erste  DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3451.ts
+
+#EXTINF:-1 tvg-id="ZDF DE" tvg-name="ZDF DE" tvg-logo="http://secure.clientportal.link/picons/zdf.png" group-title="Germany",ZDF DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1629.ts
+
+#EXTINF:-1 tvg-id="WDR DE" tvg-name="WDR HD DE" tvg-logo="http://secure.clientportal.link/picons/wdr.png" group-title="Germany",WDR HD DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3442.ts
+#EXTINF:-1 tvg-id="" tvg-name="HR HD DE" tvg-logo="http://secure.clientportal.link/picons/axnhd.png" group-title="Germany",HR HD DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14313.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Rbb Berlin HD 1080P DE" tvg-logo="" group-title="Germany",Rbb Berlin HD 1080P DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15747.ts
+#EXTINF:-1 tvg-id="" tvg-name="rbb Brandenburg HD 1080P DE" tvg-logo="" group-title="Germany",rbb Brandenburg HD 1080P DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15754.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Hr-fernsehen HD 1080P DE" tvg-logo="" group-title="Germany",Hr-fernsehen HD 1080P DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15760.ts
+
+#EXTINF:-1 tvg-id="ZDFkultur DE" tvg-name="SWR DE" tvg-logo="http://secure.clientportal.link/picons/zdfkultur.png" group-title="Germany",SWR DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/12296.ts
+
+
+#EXTINF:-1 tvg-id="ZDFneo DE" tvg-name="zdf_neo DE" tvg-logo="http://secure.clientportal.link/picons/zdfneo.png" group-title="Germany",zdf_neo DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3453.ts
+#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR HD DE" tvg-logo="http://secure.clientportal.link/picons/ndrfernsehenhd.png" group-title="Germany",NDR HD DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3443.ts
+
