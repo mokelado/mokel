@@ -1,0 +1,448 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="*-*-*-*-*SKY_ITALIA_TIVUSAT_M7*-*-*-*-*" tvg-logo="" group-title="ITALIAN",*-*-*-*-*SKY_ITALIA_TIVUSAT_M7*-*-*-*-*
+http://www.all.com:8000/live/jL7dKQMzLI/B9ThAZB31B/1047.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RAI_1_HD" tvg-logo="https://www.brandeps.com/logo-download/R/Rai1-HD-01.png" group-title="ITALIAN",RAI_1_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/464.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RAI_2_HD" tvg-logo="https://www.brandeps.com/logo-download/R/Rai2-HD-01.png" group-title="ITALIAN",RAI_2_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/465.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RAI_3_HD" tvg-logo="https://www.nannybutler.com/wp/wp-content/uploads/2015/08/rai3.jpg" group-title="ITALIAN",RAI_3_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/466.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RAI_4_HD" tvg-logo="http://www.rai.it/dl/images/1292593329848rai-4.jpg" group-title="ITALIAN",RAI_4_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/467.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RAI_5_HD" tvg-logo="http://www.digitale-terrestre-tv.it/wp-content/uploads/2016/08/rai-5-digitale-terrestre.png" group-title="ITALIAN",RAI_5_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/559.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RAI_NEWS" tvg-logo="https://www.brandeps.com/logo-download/R/Rainews-24-01.png" group-title="ITALIAN",RAI_NEWS
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/573.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RAI_MOVIE" tvg-logo="https://pbs.twimg.com/profile_images/770719294904762368/xl27XV8_.jpg" group-title="ITALIAN",RAI_MOVIE
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/484.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RAI_GULP" tvg-logo="https://pbs.twimg.com/profile_images/1469640676/Senza_titolo.jpg" group-title="ITALIAN",RAI_GULP
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/476.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RAI_yoyo" tvg-logo="https://pbs.twimg.com/profile_images/378800000078179976/416dc9cf8e1fdf3f89ece5b017ec81dc_400x400.jpeg" group-title="ITALIAN",RAI_yoyo
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/477.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RAI_SPORT_1" tvg-logo="http://enjoyfree.tv/wp-content/uploads/2016/09/RAI-Sport-1-Live.png" group-title="ITALIAN",RAI_SPORT_1
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/488.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RAI_SPORT_2" tvg-logo="http://www.tivu.tv/_common/images/cover-canali/rai-sport2.jpg" group-title="ITALIAN",RAI_SPORT_2
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/581.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RSI_LA_1_HD" tvg-logo="https://www.brandeps.com/logo-download/R/RSI-La1-HD-01.png" group-title="ITALIAN",RSI_LA_1_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/469.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RSI_LA_2_HD" tvg-logo="https://lh4.googleusercontent.com/-G85JdbAdEWs/Uf9ZHBNo1KI/AAAAAAAAA1o/2l03sFOahGc/RSi+la+2.jpg" group-title="ITALIAN",RSI_LA_2_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/470.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RETE_4" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0008/5027/brand.gif" group-title="ITALIAN",RETE_4
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/553.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT_ITALIA" tvg-logo="http://www.rallycittadimodena.com/assets/uploads/2016/08/sport-italia.jpg" group-title="ITALIAN",SPORT_ITALIA
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/545.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ITALIA_1_HD" tvg-logo="http://testsviluppo02.altervista.org/img/Italia1.png" group-title="ITALIAN",ITALIA_1_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/471.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ALICE" tvg-logo="http://www.ariase.com/fr/media/fai/alice.png" group-title="ITALIAN",ALICE
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/546.ts
+#EXTINF:-1 tvg-ID="" tvg-name="La_5" tvg-logo="http://www.digital-news.it/img/primo_piano/foto_piccole/Canale5logo.jpg" group-title="ITALIAN",La_5
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/525.ts
+#EXTINF:-1 tvg-ID="" tvg-name="La_7" tvg-logo="http://www.universy.it/wp-content/uploads/2011/05/la7.jpg" group-title="ITALIAN",La_7
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/474.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANALE_5" tvg-logo="http://static.wixstatic.com/media/f51ab3_f0d2a0df1c1745bd824a9c973eaf8f70.gif" group-title="ITALIAN",CANALE_5
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/472.ts
+#EXTINF:-1 tvg-ID="" tvg-name="*-*-*-*-*SKY_ITALIA_SPORT_HD*-*-*-*-*" tvg-logo="" group-title="ITALIAN",*-*-*-*-*SKY_ITALIA_SPORT_HD*-*-*-*-*
+http://www.all.com:8000/live/jL7dKQMzLI/B9ThAZB31B/497.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SPORT_1_HD" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/00/Sky_Sport_Logo.png" group-title="ITALIAN",SKY_SPORT_1_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/480.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SPORT_2_HD" tvg-logo="http://wikitv.eu/wp-content/uploads/2015/03/SKY-SPORT-2-ITALIA.png" group-title="ITALIAN",SKY_SPORT_2_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/481.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SPORT_3_HD" tvg-logo="http://wikitv.eu/wp-content/uploads/2015/03/SKY-SPORT-3-ITALIA.png" group-title="ITALIAN",SKY_SPORT_3_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/482.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SPORTS_F1_HD" tvg-logo="https://pbs.twimg.com/profile_images/502483207267164160/wyV8wUFV.png" group-title="ITALIAN",SKY_SPORTS_F1_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/483.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SPORT_MOTO_GP_HD" tvg-logo="https://pbs.twimg.com/profile_images/672809699222413315/B7Sw8yQW.png" group-title="ITALIAN",SKY_SPORT_MOTO_GP_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/487.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SPORT_24_HD" tvg-logo="http://2.bp.blogspot.com/_bDH9X9vtu80/SxJMBdBYeBI/AAAAAAAAAB8/zp76z14b4OA/s1600/sky-sport-24.jpg" group-title="ITALIAN",SKY_SPORT_24_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/479.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_CALCIO_1_HD" tvg-logo="http://www.electro-tunis.tn/img/cms/index2_Sky-calcio-show-sfondo-trasparente.gif" group-title="ITALIAN",SKY_CALCIO_1_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/516.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Calcio_2_HD" tvg-logo="http://www.electro-tunis.tn/img/cms/index2_Sky-calcio-show-sfondo-trasparente.gif" group-title="ITALIAN",Sky_Calcio_2_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/517.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_CALCIO_3_HD" tvg-logo="http://www.electro-tunis.tn/img/cms/index2_Sky-calcio-show-sfondo-trasparente.gif" group-title="ITALIAN",SKY_CALCIO_3_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/519.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_CALCIO_4_HD" tvg-logo="http://www.electro-tunis.tn/img/cms/index2_Sky-calcio-show-sfondo-trasparente.gif" group-title="ITALIAN",SKY_CALCIO_4_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/518.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_CALCIO_5_HD" tvg-logo="http://www.electro-tunis.tn/img/cms/index2_Sky-calcio-show-sfondo-trasparente.gif" group-title="ITALIAN",SKY_CALCIO_5_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/491.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_CALCIO_6_HD" tvg-logo="http://www.electro-tunis.tn/img/cms/index2_Sky-calcio-show-sfondo-trasparente.gif" group-title="ITALIAN",SKY_CALCIO_6_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/558.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_CALCIO_7_HD" tvg-logo="http://www.electro-tunis.tn/img/cms/index2_Sky-calcio-show-sfondo-trasparente.gif" group-title="ITALIAN",SKY_CALCIO_7_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/552.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MILAN_CHANNEL" tvg-logo="https://pbs.twimg.com/profile_images/748641362191519744/wEclfGc1.jpg" group-title="ITALIAN",MILAN_CHANNEL
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/570.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT_HD" tvg-logo="https://4.bp.blogspot.com/-KffoRU0m4l0/Vu1OfGxIKoI/AAAAAAAABLM/UFOwU0gTKAc2xKDBXopboNiUixuv7xa2w/s1600/Eurosport_HD.png" group-title="ITALIAN",EUROSPORT_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/489.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT_2" tvg-logo="http://www.fullhdoboi.ru/_ph/31/206009189.jpg" group-title="ITALIAN",EUROSPORT_2
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/490.ts
+#EXTINF:-1 tvg-ID="" tvg-name="*-*-*-*-*SKY_ITALIA_ENTERTAINMENT*-*-*-*-*" tvg-logo="" group-title="ITALIAN",*-*-*-*-*SKY_ITALIA_ENTERTAINMENT*-*-*-*-*
+http://www.all.com:8000/live/jL7dKQMzLI/B9ThAZB31B/497.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SUPER_TENNIS_HD" tvg-logo="http://www.eutelsattvawards.com/dem/2015/media/logo-supertennis.png" group-title="ITALIAN",SUPER_TENNIS_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/486.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SUPER_CALCIO_HD" tvg-logo="http://images.davidemaggio.it/pics3/2014/11/Sky-Supercalcio-HD.jpg" group-title="ITALIAN",SUPER_CALCIO_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/521.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_UNO_HD" tvg-logo="https://pbs.twimg.com/profile_images/677115621340004352/IjjxbVz4.png" group-title="ITALIAN",SKY_UNO_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/575.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_TG_24_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/SKY_TG24.png" group-title="ITALIAN",SKY_TG_24_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/574.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RAI_PREMIUM" tvg-logo="https://static.playmedia-cdn.net/img/tv_channels/401_medium.png" group-title="ITALIAN",RAI_PREMIUM
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/485.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_FOX_CRIME_HD" tvg-logo="http://tvimages.burrp.com/images/channels2/entertainment/Fox-Crime.png" group-title="ITALIAN",SKY_FOX_CRIME_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/580.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_FOX_COMEDY_HD" tvg-logo="http://www.mediakey.tv/uploads/tx_operatori/Fox-Comedy.png" group-title="ITALIAN",SKY_FOX_COMEDY_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/585.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_CIELO" tvg-logo="http://tvstreamingonline.org/images/LOGHIGRANDI/cielo%20tv%20logo.jpg" group-title="ITALIAN",SKY_CIELO
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/577.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_AXN_HD" tvg-logo="http://www.listverse.info/wp-content/uploads/2014/09/8_axn.jpg" group-title="ITALIAN",SKY_AXN_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/582.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_ATLANTIC_HD" tvg-logo="http://geekseries.fr/sites/default/files/images_tv_grande/Sky-atlantic-logo.jpg" group-title="ITALIAN",SKY_ATLANTIC_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/576.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_ARTE_HD" tvg-logo="https://pbs.twimg.com/profile_images/677115715678248960/Iq500-Ns.jpg" group-title="ITALIAN",SKY_ARTE_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/564.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY_Travel&Living" tvg-logo="https://theident.gallery/discoverytravelliving/2005/DISCTL-2005-ID-APARTMENTS-8.jpg" group-title="ITALIAN",DISCOVERY_Travel&Living
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/475.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PESCA_E_CACCIA" tvg-logo="http://www.digital-news.it/files-admin/Simone/ADV%20CACCIAPESCA%20small.jpg" group-title="ITALIAN",PESCA_E_CACCIA
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/555.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY_SCIENCE" tvg-logo="http://dnepr.info/wp-content/uploads/2015/06/discovery_science_hd.jpg" group-title="ITALIAN",DISCOVERY_SCIENCE
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/548.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NAT_GEOGRAPHIC_HD" tvg-logo="http://tvimages.burrp.com/images/channels2/documentary/National-Geographic-Channel.png" group-title="ITALIAN",NAT_GEOGRAPHIC_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/560.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONALGEO_WILD_HD" tvg-logo="http://www.hdsat.by/userfiles/images/nat_geo_wild_ru.jpg" group-title="ITALIAN",NATIONALGEO_WILD_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/556.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONALGEO_PEOPLE_HD" tvg-logo="http://tvscheduleindia.com/images/tv/channels/documentary/Nat-Geo-People-HD.png" group-title="ITALIAN",NATIONALGEO_PEOPLE_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/557.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIUM_STORIES" tvg-logo="https://pbs.twimg.com/profile_images/613290819345338368/Iu22So8Z.jpg" group-title="ITALIAN",PREMIUM_STORIES
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/569.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX_LIFE_HD" tvg-logo="http://tvimages.burrp.com/images/channels2/entertainment/Fox-Life-HD.png" group-title="ITALIAN",FOX_LIFE_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/579.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX_HD" tvg-logo="http://www3.images.coolspotters.com/photos/11319/fox-broadcasting-company-profile.png" group-title="ITALIAN",FOX_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/578.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL_PLANETE" tvg-logo="http://vectorlogofree.com/wp-content/uploads/2012/11/animal-planet-tv-vector-logo-400x400.png" group-title="ITALIAN",ANIMAL_PLANETE
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/583.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CARTOONITO" tvg-logo="" group-title="ITALIAN",CARTOONITO
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/584.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX_ANIMATION_HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Animation-Italia_o.jpg" group-title="ITALIAN",FOX_ANIMATION_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/568.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DMAX_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="ITALIAN",DMAX_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/572.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY_XD" tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/08/canal-disney-xd-brasil-desenhos-e-filmes-online.jpg" group-title="ITALIAN",DISNEY_XD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/551.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney_HD" tvg-logo="http://www.reporternuovo.it/files/2014/10/Disney_channel_2007.png" group-title="ITALIAN",Disney_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/549.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY_HD" tvg-logo="https://pbs.twimg.com/profile_images/49017252/Discovery-logo.jpg" group-title="ITALIAN",DISCOVERY_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/562.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CRIME_INVESTIGATION_HD" tvg-logo="https://yt3.ggpht.com/-naV3NjirYcg/AAAAAAAAAAI/AAAAAAAAAAA/AVj2_xxDmRA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ITALIAN",CRIME_INVESTIGATION_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/571.ts
+#EXTINF:-1 tvg-ID="" tvg-name="*-*-*-*-*SKY_ITALIA_CINEMA_HD*-*-*-*-*" tvg-logo="" group-title="ITALIAN",*-*-*-*-*SKY_ITALIA_CINEMA_HD*-*-*-*-*
+http://www.all.com:8000/live/jL7dKQMzLI/B9ThAZB31B/1036.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_CINEMA_PASSION_HD" tvg-logo="http://www.cinetivu.com/wp-content/uploads/2011/02/Sky-Passion-HD.jpg" group-title="ITALIAN",SKY_CINEMA_PASSION_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/509.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_CINEMA_MAX_HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Max-Plus1_o.jpg" group-title="ITALIAN",SKY_CINEMA_MAX_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/512.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_CINEMA_HITS_HD" tvg-logo="http://www.ivid.it/fotogallery/imagesearch/images/loghi_emittenti_tv_sky_081_jpg_ksss.jpg" group-title="ITALIAN",SKY_CINEMA_HITS_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/508.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_CINEMA_FAMILY_HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Family_o.jpg" group-title="ITALIAN",SKY_CINEMA_FAMILY_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/510.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_CINEMA_CULT_HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Cult_o.jpg" group-title="ITALIAN",SKY_CINEMA_CULT_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/513.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_CINEMA_COMEDY_HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Comedy-IT_o.jpg" group-title="ITALIAN",SKY_CINEMA_COMEDY_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/511.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_CINEMA_CLASSICS_HD" tvg-logo="http://www.televisione.it/guidatv/img/26.png" group-title="ITALIAN",SKY_CINEMA_CLASSICS_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/514.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_CINEMA_1_HD" tvg-logo="http://1.bp.blogspot.com/-5CJUU31ob-M/T4QnfTWpW4I/AAAAAAAAE7w/WZVID9MWC3k/s1600/Sky%2BCinema%2B1%2BHD.jpg" group-title="ITALIAN",SKY_CINEMA_1_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/506.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_CINEMA_24_HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Plus24-Italia_o.jpg" group-title="ITALIAN",SKY_CINEMA_24_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/507.ts
+#EXTINF:-1 tvg-ID="" tvg-name="*-*-*-*-*SKY_ITALIA_M7_PREMIUM*-*-*-*-*" tvg-logo="" group-title="ITALIAN",*-*-*-*-*SKY_ITALIA_M7_PREMIUM*-*-*-*-*
+PAS_de_source
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIUM_CALCIO_HD" tvg-logo="http://live.deniia.com/assets/img/chainelogo/premiumcalcio.jpg" group-title="ITALIAN",PREMIUM_CALCIO_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/526.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIUM_CALCIO_1_HD" tvg-logo="http://www.mediasetpremium.it/bin/1.$plit/P_54_84_index_cmv_lstColonna1_pacchetto_11_upiPopupC1.png" group-title="ITALIAN",PREMIUM_CALCIO_1_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/523.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIUM_CALCIO_2_HD" tvg-logo="http://www.mediasetpremium.it/bin/39.$plit/P_54_84_index_cmv_lstColonna1_pacchetto_14_upiPopupC1.png" group-title="ITALIAN",PREMIUM_CALCIO_2_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/524.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIUM_CALCIO_3_HD" tvg-logo="http://www.mediasetpremium.it/bin/51.$plit/P_54_84_index_cmv_lstColonna1_pacchetto_15_upiPopupC1.png" group-title="ITALIAN",PREMIUM_CALCIO_3_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/520.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIUM_CALCIO_4_HD" tvg-logo="http://www.mediasetpremium.it/bin/63.$plit/P_54_84_index_cmv_lstColonna1_pacchetto_16_upiPopupC1.png" group-title="ITALIAN",PREMIUM_CALCIO_4_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/500.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIUM_CALCIO_5_HD" tvg-logo="http://www.mediasetpremium.it/bin/24.$plit/P_54_84_index_cmv_lstColonna1_pacchetto_17_upiPopupC1.png" group-title="ITALIAN",PREMIUM_CALCIO_5_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/501.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIUM_CALCIO_6_HD" tvg-logo="http://www.mediasetpremium.it/bin/12.$plit/P_54_84_index_cmv_lstColonna1_pacchetto_18_upiPopupC1.png" group-title="ITALIAN",PREMIUM_CALCIO_6_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/504.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIUM_SPORT_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/C_116_canali_36_upiLogo.jpg" group-title="ITALIAN",PREMIUM_SPORT_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/522.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIUM_JOI" tvg-logo="https://pbs.twimg.com/profile_images/3179831321/52ecb7c05594747b8a2001da2f51addb_400x400.png" group-title="ITALIAN",PREMIUM_JOI
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/544.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIUM_JOY" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Joi-Plus1-Mediaset_o.jpg" group-title="ITALIAN",PREMIUM_JOY
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/499.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_Disney_Junior" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/01/4b/56/014b569c2bd9bc466ec3e71893042629.jpg" group-title="ITALIAN",Premium_Disney_Junior
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/502.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_DISNEY_CHANNEL_HD" tvg-logo="http://img.lum.dolimg.com/v1/images/games_app_disney_channel_nonretina_55889b69.png" group-title="ITALIAN",Premium_DISNEY_CHANNEL_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/567.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_STUDIO_UNIVERSAL" tvg-logo="http://4.bp.blogspot.com/-GWYPDztrmio/TmcVUzOhRZI/AAAAAAAAMag/8SAtw20RYnc/s1600/Studio+Universal+MultiChoice+DStv.png" group-title="ITALIAN",Premium_STUDIO_UNIVERSAL
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/563.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIUM_EMOTION" tvg-logo="http://img.quimediaset.it/bin/news/60.$plit/C_11_news_21092_news.png" group-title="ITALIAN",PREMIUM_EMOTION
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/566.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_Crime_24" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Crime-Plus24_o.jpg" group-title="ITALIAN",Premium_Crime_24
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/503.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIUM_CRIME_HD" tvg-logo="http://www.lospettacolo.it/xml/schede/img/229220_originale_bg.jpg" group-title="ITALIAN",PREMIUM_CRIME_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/496.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIUM_COMEDY_HD" tvg-logo="http://www.televisionando.it/img/premium-cinema-comedy-logo.jpg" group-title="ITALIAN",PREMIUM_COMEDY_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/494.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIUM_CINEMA_HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Cinema_o.jpg" group-title="ITALIAN",PREMIUM_CINEMA_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/493.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIUM_CINEMA_ENERGY_HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Cinema-Energy_o.jpg" group-title="ITALIAN",PREMIUM_CINEMA_ENERGY_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/498.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIUM_ACTION_24" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Action-Plus24_o.jpg" group-title="ITALIAN",PREMIUM_ACTION_24
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/497.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIUM_CINEMA_24" tvg-logo="https://ulango.tv/uploads/channels/2759725/logo_premium%20cinema%2024.png" group-title="ITALIAN",PREMIUM_CINEMA_24
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/565.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIUM_CINEMA_2" tvg-logo="http://www.sceglilfilm.it/wp-content/uploads/2015/06/premium-cinema-2.jpg" group-title="ITALIAN",PREMIUM_CINEMA_2
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/468.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premium_CARTOON_NETWORK" tvg-logo="http://tbsila.cdn.turner.com/toonla/images/cnemea/site/static/img/cnlogo_social.png" group-title="ITALIAN",Premium_CARTOON_NETWORK
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/550.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIUM_ACTION_HD" tvg-logo="http://img.mediaset.it/bin/36.$plit/C_116_canali_21_upiLogo.jpg" group-title="ITALIAN",PREMIUM_ACTION_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/495.ts
+#EXTINF:-1 tvg-ID="" tvg-name="*-*-*-*-*SKY_ITALIA_CALCIO*-*-*-*-*" tvg-logo="" group-title="ITALIAN",*-*-*-*-*SKY_ITALIA_CALCIO*-*-*-*-*
+http://www.all.com:8000/live/jL7dKQMzLI/B9ThAZB31B/497.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PRIMAFILA_1_HD" tvg-logo="http://qualcosadafare.com/wp-content/uploads/2011/11/sky.jpg" group-title="ITALIAN",PRIMAFILA_1_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/528.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PRIMAFILA_2_HD" tvg-logo="http://qualcosadafare.com/wp-content/uploads/2011/11/sky.jpg" group-title="ITALIAN",PRIMAFILA_2_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/529.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PRIMAFILA_3_HD" tvg-logo="http://qualcosadafare.com/wp-content/uploads/2011/11/sky.jpg" group-title="ITALIAN",PRIMAFILA_3_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/530.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PRIMAFILA_4_HD" tvg-logo="http://qualcosadafare.com/wp-content/uploads/2011/11/sky.jpg" group-title="ITALIAN",PRIMAFILA_4_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/531.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PRIMAFILA_5_HD" tvg-logo="http://qualcosadafare.com/wp-content/uploads/2011/11/sky.jpg" group-title="ITALIAN",PRIMAFILA_5_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/532.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PRIMAFILA_6_HD" tvg-logo="http://qualcosadafare.com/wp-content/uploads/2011/11/sky.jpg" group-title="ITALIAN",PRIMAFILA_6_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/533.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PRIMAFILA_7_HD" tvg-logo="http://qualcosadafare.com/wp-content/uploads/2011/11/sky.jpg" group-title="ITALIAN",PRIMAFILA_7_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/534.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PRIMAFILA_8_HD" tvg-logo="http://qualcosadafare.com/wp-content/uploads/2011/11/sky.jpg" group-title="ITALIAN",PRIMAFILA_8_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PRIMAFILA_9_HD" tvg-logo="http://qualcosadafare.com/wp-content/uploads/2011/11/sky.jpg" group-title="ITALIAN",PRIMAFILA_9_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/536.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PRIMAFILA_10_HD" tvg-logo="http://qualcosadafare.com/wp-content/uploads/2011/11/sky.jpg" group-title="ITALIAN",PRIMAFILA_10_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/537.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PRIMAFILA_11_HD" tvg-logo="http://qualcosadafare.com/wp-content/uploads/2011/11/sky.jpg" group-title="ITALIAN",PRIMAFILA_11_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/538.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PRIMAFILA_12_HD" tvg-logo="http://qualcosadafare.com/wp-content/uploads/2011/11/sky.jpg" group-title="ITALIAN",PRIMAFILA_12_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/539.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PRIMAFILA_13_HD" tvg-logo="http://qualcosadafare.com/wp-content/uploads/2011/11/sky.jpg" group-title="ITALIAN",PRIMAFILA_13_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/540.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PRIMAFILA_14_HD" tvg-logo="http://qualcosadafare.com/wp-content/uploads/2011/11/sky.jpg" group-title="ITALIAN",PRIMAFILA_14_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/541.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PRIMAFILA_15_HD" tvg-logo="http://qualcosadafare.com/wp-content/uploads/2011/11/sky.jpg" group-title="ITALIAN",PRIMAFILA_15_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/542.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PRIMAFILA_16_HD" tvg-logo="http://qualcosadafare.com/wp-content/uploads/2011/11/sky.jpg" group-title="ITALIAN",PRIMAFILA_16_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/543.ts
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="*-*-*-*-*GERMANY*-*-*-*-*" tvg-logo="" group-title="DEUTSCH",*-*-*-*-*GERMANY*-*-*-*-*
+http://www.all.com:8000/live/jL7dKQMzLI/B9ThAZB31B/497.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY_CINEMAGIC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/bb/Disney_Cinemagic_logo.png" group-title="DEUTSCH",DISNEY_CINEMAGIC
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/606.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY_XD" tvg-logo="http://www.chipandco.com/wp-content/uploads/2013/10/Disney-XD-Logo-300x200.jpg" group-title="DEUTSCH",DISNEY_XD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/604.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ZDF_HD" tvg-logo="http://attachments.team-mediaportal.com/2011/06/thumb/138009_zdf_hd.png" group-title="DEUTSCH",ZDF_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/605.ts
+#EXTINF:-1 tvg-ID="" tvg-name="WDR_HD" tvg-logo="http://iptvsaga.com/logos/0018.png" group-title="DEUTSCH",WDR_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/608.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTL_CRIME" tvg-logo="http://4.bp.blogspot.com/-DhB-0XAlLEA/VQNIcJQvguI/AAAAAAAAATM/ueyQ56S_WgI/s1600/RTL-Crime1.png" group-title="DEUTSCH",RTL_CRIME
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/594.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VOX" tvg-logo="" group-title="DEUTSCH",VOX
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/596.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIVA_COMEDY_CENTRAL" tvg-logo="http://www.auditionsfree.com/content/user/2016/01/comedy-central-2.jpg" group-title="DEUTSCH",VIVA_COMEDY_CENTRAL
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/630.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TNT_SERIE" tvg-logo="http://www.schau-hd.tv/attachments/62/tntserie.png" group-title="DEUTSCH",TNT_SERIE
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/639.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TNT_FILM" tvg-logo="http://www.horizont.net/news/media/4/TNT-Sender-starten-in-Deutschland-in-HD-31134.jpeg" group-title="DEUTSCH",TNT_FILM
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/638.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTL_LIVING" tvg-logo="http://senderlogos.images.dvbdata.com/302x190_w/10123.png" group-title="DEUTSCH",RTL_LIVING
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/627.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SPORT_AUSTRIA" tvg-logo="https://pbs.twimg.com/profile_images/760417308514942976/cnZZiUoa.jpg" group-title="DEUTSCH",SKY_SPORT_AUSTRIA
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/626.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SYFY" tvg-logo="" group-title="DEUTSCH",SYFY
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/635.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SPORT_DIGITAL" tvg-logo="https://partnerportal.unruly.co/wp-content/uploads/2016/03/Sport-Digital-logo-300x300.jpg" group-title="DEUTSCH",SKY_SPORT_DIGITAL
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/595.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SUPER_RTL" tvg-logo="http://www.quotenmeter.de/pics/superrtl/superrtl_logo2.jpg" group-title="DEUTSCH",SUPER_RTL
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/644.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_NOSTALGIE" tvg-logo="http://ulango.tv/uploads/channels/62407/logo_sky%20nostalgie1.png" group-title="DEUTSCH",SKY_NOSTALGIE
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/603.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SRF_2" tvg-logo="https://i3.radionomy.com/radios/400/e949333a-1b36-4788-9b22-f98f2ffa8a1b.png" group-title="DEUTSCH",SRF_2
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/600.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SRF_1" tvg-logo="http://static.radio.fr/images/broadcasts/6c/53/4481/c175.png" group-title="DEUTSCH",SRF_1
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/599.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPIEGEL_GESCHICHTE" tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/spiegelgeschichteHD655440.jpg" group-title="DEUTSCH",SPIEGEL_GESCHICHTE
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/614.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_KRIMI" tvg-logo="https://www.brandeps.com/logo-download/S/Sky-Krimi-01.png" group-title="DEUTSCH",SKY_KRIMI
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/657.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_HITS" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Hits-DE_o.jpg" group-title="DEUTSCH",SKY_HITS
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/655.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MOTORVISION" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/9/9d/MOTORVISION_HD.jpg" group-title="DEUTSCH",MOTORVISION
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/656.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_EMOTION_HD" tvg-logo="https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0022/7951/brand.gif" group-title="DEUTSCH",SKY_EMOTION_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/650.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_COMEDY_HD" tvg-logo="https://seeklogo.com/images/S/sky-comedy-logo-C544240967-seeklogo.com.gif" group-title="DEUTSCH",SKY_COMEDY_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/651.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_CINEMA_HD_1" tvg-logo="https://pbs.twimg.com/profile_images/751462997235736576/41600tOl.jpg" group-title="DEUTSCH",SKY_CINEMA_HD_1
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/649.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_CINEMA_24_HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Plus24-Italia_o.jpg" group-title="DEUTSCH",SKY_CINEMA_24_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/653.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_CINEMA_HD" tvg-logo="http://4.bp.blogspot.com/-ZOLTAVTGsxQ/T-l1PfFOGBI/AAAAAAAABCg/zqd3-ElVRFM/s1600/sky_it_cinema1.png" group-title="DEUTSCH",SKY_CINEMA_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/648.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_ATLANTIC_HD" tvg-logo="" group-title="DEUTSCH",SKY_ATLANTIC_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/654.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_ACTION_HD" tvg-logo="http://abroadindia.com/logos/common/skyaction.jpg" group-title="DEUTSCH",SKY_ACTION_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/652.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DAS_ERSTE" tvg-logo="http://freeweb.t-2.net/kibtu/logo/Das_Erste.png" group-title="DEUTSCH",DAS_ERSTE
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/646.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SIXX" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/06/600px-Sixx.svg_.png" group-title="DEUTSCH",SIXX
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/631.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN_ACTION" tvg-logo="http://www.cambodia-entertainment.com/website-camboentertain-v3/cem-img4/cem-cambodia-cabletv-ch-06.jpg" group-title="DEUTSCH",AXN_ACTION
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/615.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SAT_1_GOLD" tvg-logo="http://thewatchtv.com/wp-content/uploads/2013/02/Watch-SAT-1-Gold-TV-Live-TV-from-Germany.jpg" group-title="DEUTSCH",SAT_1_GOLD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/602.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SAT_1" tvg-logo="http://logo-city.org/data_images/3097/6AE/99933.png" group-title="DEUTSCH",SAT_1
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/601.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTL_PASSION" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RTL-Passion-HR_o.jpg" group-title="DEUTSCH",RTL_PASSION
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/643.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTL_NITRO" tvg-logo="http://fernsehen-live-stream.org/uploads/posts/2014-03/1395691733_rtl_nitro.jpg" group-title="DEUTSCH",RTL_NITRO
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/642.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTL_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/81/RTL_HD.png" group-title="DEUTSCH",RTL_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/640.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTL_2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtl2_hr.jpg" group-title="DEUTSCH",RTL_2
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/641.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL_PLANET_DE" tvg-logo="http://tvimages.burrp.com/images/channels2/documentary/Animal-planet.png" group-title="DEUTSCH",ANIMAL_PLANET_DE
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/610.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON_DE" tvg-logo="http://www.kidvertisers.com/images/biglogo_nickelodeon.gif" group-title="DEUTSCH",NICKELODEON_DE
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/616.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PRO_7_MAX" tvg-logo="https://pbs.twimg.com/profile_images/755664623165173761/3iss_A2Y.jpg" group-title="DEUTSCH",PRO_7_MAX
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/598.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PRO_7" tvg-logo="http://www.gmkfreelogos.com/logos/P/img/ProSieben_HD.gif" group-title="DEUTSCH",PRO_7
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/597.ts
+#EXTINF:-1 tvg-ID="" tvg-name="N_TV" tvg-logo="http://www.n-tv.de/stat/images/ntv_logo_App.png" group-title="DEUTSCH",N_TV
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/617.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BOOMERANG" tvg-logo="" group-title="DEUTSCH",BOOMERANG
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/592.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ORF_1" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0025/4820/brand.gif" group-title="DEUTSCH",ORF_1
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/680.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ORF_2" tvg-logo="http://chanlogos.xmltv.se/orf2.orf.at.png" group-title="DEUTSCH",ORF_2
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/591.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SONY" tvg-logo="" group-title="DEUTSCH",SONY
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/607.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NDR" tvg-logo="" group-title="DEUTSCH",NDR
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/618.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NAT_GEO_WILD" tvg-logo="http://www.hdsat.by/userfiles/images/nat_geo_wild_ru.jpg" group-title="DEUTSCH",NAT_GEO_WILD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/673.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL_GEOGRAPHIC_HD" tvg-logo="http://tvimages.burrp.com/images/channels2/documentary/National-Geographic-Channel.png" group-title="DEUTSCH",NATIONAL_GEOGRAPHIC_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/675.ts
+#EXTINF:-1 tvg-ID="" tvg-name="N24" tvg-logo="" group-title="DEUTSCH",N24
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/619.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MGM_HD" tvg-logo="http://www.schau-hd.tv/attachments/160/HDTV_2015_Logos_Programme_MGM_HD_CHANNEL.png" group-title="DEUTSCH",MGM_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/632.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GOLDSTAR" tvg-logo="https://pbs.twimg.com/profile_images/804374994407092224/qYGiZVja_400x400.jpg" group-title="DEUTSCH",GOLDSTAR
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/620.ts
+#EXTINF:-1 tvg-ID="" tvg-name="KIKA" tvg-logo="" group-title="DEUTSCH",KIKA
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/621.ts
+#EXTINF:-1 tvg-ID="" tvg-name="KABEL_EINS" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/06/500px-Kabel_eins_Logo_08.svg_.png" group-title="DEUTSCH",KABEL_EINS
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/624.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX_SERIES" tvg-logo="http://static-cdn.info2cell.com/3alatv/media/channels/thumbs/b8e06fda5b01425dd62bfe014425dc2f_132x99.jpg" group-title="DEUTSCH",FOX_SERIES
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/622.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HISTORY_CHANNEL" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0007/5009/brand.gif" group-title="DEUTSCH",HISTORY_CHANNEL
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/676.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HEIMAT-KANAL" tvg-logo="http://www.heimatkanal.de/files/themes/heimatkanal/Icons/HEK_logo.png" group-title="DEUTSCH",HEIMAT-KANAL
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/623.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Germany_MOVIE" tvg-logo="http://broadbandtvnews.broadbandtvnews.netdna-cdn.com/wp-content/uploads/2013/08/sky-movies.jpg" group-title="DEUTSCH",Sky_Germany_MOVIE
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/637.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX" tvg-logo="" group-title="DEUTSCH",FOX
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/636.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EURONEWS" tvg-logo="" group-title="DEUTSCH",EURONEWS
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/628.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_CINEMA_M" tvg-logo="http://senderlogos.images.dvbdata.com/302x190_w/610.png" group-title="DEUTSCH",Sky_CINEMA_M
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/629.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_BundesLiga_HD" tvg-logo="http://dikrayaty.free.fr/wp-content/uploads/iptv_sky_Bundesliga.jpg" group-title="DEUTSCH",Sky_BundesLiga_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/612.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DMAX" tvg-logo="" group-title="DEUTSCH",DMAX
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/633.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY_JUNIOR" tvg-logo="http://vignette1.wikia.nocookie.net/disney/images/b/b8/Disney_junior_04.jpg" group-title="DEUTSCH",DISNEY_JUNIOR
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/678.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY_CHANNEL" tvg-logo="http://vignette2.wikia.nocookie.net/logo-timeline/images/7/78/Disney_channel_2007.png" group-title="DEUTSCH",DISNEY_CHANNEL
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/679.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY_CHANNEL" tvg-logo="https://activpn.com/images/watch_outside_ca/The%20Discovery%20Channel.png" group-title="DEUTSCH",DISCOVERY_CHANNEL
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/674.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sonnenklar_HD" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBhUQERMWFhUXFyAZFRgXFxcWHhwZHRsYFxodFxkeHSggGR4lJxgbLTIhJSkrLi4yGCAzODMtNygtLisBCgoKDg0OGhAQGy4iICU1MjcuMC4tLS0tMi0tLTctLS01NS01LS0tLS0tLy0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAOEA4QMBEQACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABQYBAwQHAgj/xABCEAACAQMCAwUEBggDCQEAAAAAAQIDBBEFBhIhMRNBUWFxIjKBkQcUNqGxwRUjQlJykrLRc7PhFzQ3YoOTosLSFv/EABsBAQACAwEBAAAAAAAAAAAAAAAEBQIDBgEH/8QAOREBAAIBAgQDBQUHBAMBAAAAAAECAwQRBRIhMRNBUSJhcYGxFBUyNJEjM1KhwdHhJEJy8DVi8Qb/2gAMAwEAAhEDEQA/APcQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPKdW+kPWrTVa1KMaPDCrOEcwlnEZOKz7XXkQb6m0WmHXabgWmyYaXmZ3mIn9fk79ob31bWdwU6FVUuCSlnhjJPlFyXNyfgZYs9rW2lH4lwfBptPbJSZ3jb6vRyY5kAhtb1uOn1FCKUpdZLwj/dlVr+JRp7RWsbz5/BO0ujnNE2npCQsbyjfW6nB8vvT8GTtPqKZ6RekouXFbFbls6Te1gAAAAAAAAAAAAAAAAAAAAAAAAA/Pm4ftDc/wCPU/zJFVl/HL6Tofy2P/jH0S/0b/bGj6T/AKJGen/eQhcc/J2+X1e2Fk4NHazqUNOts9ZP3V+b8kQddrK6bHv5z2SdNp5zX28vNRqtSdWo5SeW3ls4697XtNrT1l0dKxWsVjs6dL1Gtp1xxR5p+9HxX9/MkaTV301+avbzho1GnrmrtPdebO7o3tBTg8p/c/B+Z2ODPTNSL0no53Ljtjty2dBuYAAAAAAAAAAAAAAAAAAAAAAEPqe49P0y/hRqS9qXVrpBdzn4Z/1I+TU48dorMpmDQZs2OclY6R/P4JdNSWUSEPs/Pu4ftDc/49T/ADJFVl/HL6Tofy2P/jH0S/0b/bGj6T/okZ6f95CFxz8nb5fV7Je3VKzt3Ob5L7/JEzPnrhpN7docNjx2yWitVDv7yrfXLnLv6LwXckcXqdRbPkm9nS4MNcVOWHMR25JaPpFXUqmekF1l+UfMsNDoL6md+1fX+yHqtXXDG0dZXW2t6VrRUILCR1uLFXFSK0jaIUF72vbmtPVuNrAAAAAAAAAAAAAAAAAAAAAB8zTlBpPHLr4Hkkd3j+4tMvdM1KSrNycnlT/fXj6+K7jntRivjv7TttDqMWbFHh9NvL0Tezt0uxkreu/1b5Qk/wBjyf8Ay/h6dJWj1fL7F+yv4nw3xInLijr5x6/5VXUNA1jVNduZUaE5x7epiWFGL/WS6Sk0n8GbrY7WtMxC3wa/TYNPjrkvETyx7/L3JbZegavpG6aVSvQnCCU8yfDKK9iXWUW0viZ4qWpbmtG0IfFNfp9RpbUxX3np0+fvWDW9UlqNzy9yPur836nOcQ1s6nJ0/DHb+6BpNNGGvXvKNK9MTOh6JO+anPKp/fL08vMtuH8NnP7d+lfqr9XrYx+zTv8ARcaVOFKmoxWEuiR1VKxSIrWNoUVpm07y+zJ4AAAAAAAAAAAAAAAAAAAAAAAOHV9MttWs3SqLK7n3xfc0zVlxVy15bN+n1F8F+ekqrt/ZX1e/lO5xOMXimu6XfxSXh5PvyQcGh5bTN+u3Zb6zi/PjiuLpM9/d7l3SUVhFmoWQKxuXR4QputTWMe+l09V+Zz3FeH1is5scfGP6rbQ6uZnw7/Jq0PQXWxUrLEf2Y+Pm/LyNfD+F8+2TLHTyhnq9dy+xj7+qzzq0aEebjFebSL++bFij2rRCoitrT0jdyVdZsaf7efRN/wChBycZ0lP92/w6t9dHmt5OOruKkvdg36tL+5Ayf/oscfgpM/Ho314fbzl82OtVrm+jBxik/XPR4MdHxrLn1FcdqxES9zaKuPHNt+qeOlVwAAAAAAAAAAAAAAAAAAAAAAAAAPmouKDRjeN6y9juplW+u6vvVJfPH3I+fZddqbzta8/9+C/rgx17Vc/eQ5nfu3RGwAA3WU+zvIPwkvxJOjvyailvfDXmjfHaPcu59Gc6AAAAAAAAAAAAAAAAAAAAAAabq6t7Sjx1JxhHvcmkvmzG1orG9p2ZUpa88tY3ltTyjJi1XNzQtKLnUlGEV1cmkvmzG1orG8yypS152rG8s1ZN27cObx7Pny5GGWbeHPJ1nboViItHMq/6Fv8AHuf+Uf7nFfcut/h/nC6+24fVn9C3/wC6v5ke/cms/hj9YefbcPqfoS//AHV/Mh9x6z+GP1g+3YfVn9CX37q/mR79x6v0j9T7diZWiX6fSP8AMZV4Jq4nfaP1YzrsUx5rTHODta77dVMyegAAAAIjXdwWWiRXaZcpe7GPNtePN4SI+fUUxfiS9JosupmeTtHmi9N3xZX17Gl2dSLnJRT9lrL8efI0Y9fS9ortPVLz8Hy4qTfeJ2Suua/ZaJBdo25P3YR5t+fgl5skZ9RTFHtIml0WXUz7Hb1QdD6QbGdXE6U4rxTUseq/tkixxGkz1iU+/A80RvW0TKe1DW7Wz0f60szp8scGOeWo8s48SVkz1pj8TvCuw6S+TN4PafeinvjTVYdrwzy5OKh7PE8JNt88JczR9vx8vMmRwfPOTk6fHyb9C3dZavc9lwyhN+6pYaffhNd/kZYNZTLPL2lhq+GZdPXnnrHuK27rKhrDtpQmmpcLm+HhXLOXzzj4CdZSMnhzDynDMlsHjRMfDzcNbf8Ap8bjEadSUc+9yWfNRb/HBrniOOJ22nZIrwTNNd5mIn0WOlqdnU036wprs+Hi4nywu/Pn3Y8SZGWs059+istp8lcnhbe0rVb6QbGFXEaU5R8W4x+SIU8RpE9IlaV4HmmN5tESntO1yz1HTZV6eWopuUXykmlnDXT8iVjz1yUm1fJX5tJkw5Ix380Vbb40ytQnNxqRUUuTUcybzhRSfXkaK6/HMTM+SXk4PnratY2nd8afvqwurpQlCdPLwpPDWe7OOh5j1+O1tpjZlm4Nmx05omJ2bvpD+zE/4o/iZa/9xLXwj81Hz+iau72hp2nurUeIxjz/ACS8WyTbJWlOayFTFbLk5KR1lAbvuvruy5VOCUOLhajPCeOJYyk3gi6u3Np5nbZYcOx+HrYrvvtv2+CZrahbaXo8atV4ioR9W8LCS72SZyVx44tZBrgvmyzSkdeqLqbsqUqXaSs7hU+vE4rp4td3zI86uYjmmk7JccOi08sZa83punrS7o3dpGrB5jJZT8iVW8WrzR2V98dqXmlu8ICe8rSVrTlTpVZyqZappJySTcW5Yb5ZRFnW15YmImZnyWEcLyc1otaIiPOeyR3DrK0XT1WcOLMlHGeHqm/B+Buz5vCpzbbo+k0v2jJyb7K5/tEp4/3d/wDcX/yQ/vKP4Vp9xW/j/l/lv/8A3Len9srfkp8D/Wd/DxL9n1+Rl9v9jn5Wr7n/AGvh8/Xbft/lY9F1GGraZCsljizlZzhptNZ+BMw5YyUi0KzU6ecGScc+SIst2fXdfdrCjlKUlx8fdHOXw8Pl496I9NXz5fDiE3Lw2cen8a1vTpt6rMTVWAAKBv8A0a+uNQVxTjKcOBRfCsuLTfd1xz/EqddgvNuesbw6Lg+rxUxzivO07tOk7ptp3dOFxbU1wySU4R4XF9E8d3nhnmLV1m0ResMtRw28UtbFkmfdPmjddbv95yhUfJ1o0/SOVHl+PxNGf29Rtb12S9Jti0PNTvtM/Nat76TYUtvOcacYOm48LikuTajjz6k/WYaRi3iNtlRwvU5Z1MRNpmJ7qzYVpz2NcwfSNSDj8ZRz+H3kGlp+zXj3wtc1IjX47R3mJ+jt2DotlqMatStFT4WoxT6dMt+fcbdDgpfe1o3aOMavJimtMc7b9UZSoQsd6xpw92NwkvTiXL5M0xWKamIj1SrXnLoJtbvNf6G5KP1jd9SHTiqxj81FfmeaiN9RMeswaG/Joot6RKb3xoWn6bpFOdKHC1NRb5804yfteL5LmStbp6UxxNYQeE6zNlz2red423RFStUjsWEV0dw0/RR4sfPmR5tP2WI96ZWlZ4hM/wDq3aHqs7PSeyVi6qlniniT4svyg+nTr3GWHNNcfL4e7DV6aMmbnnNyzHl6fzbNm0ru2q3EZU5xjKhL3oySyunNrrzZlo4tWbRMdNmvid8V4xzW0TMWjzcOytNt9U1lRqrMYwcmvHDilny5mnR4q5Mm1uyVxTUXw4N6dJmdmd8afbadrPDSjwxcFLC6J5knj5Hutx1x5NqvOFZ75sG953mJW3e7c9nevB+RP1v5f9FLwuP9Zt8Ubd3tW/vra5rwxadpwwT8cezUmvBvp5Lz56bXm9q3vHsf96pVMVcePJixz+023n+sQmt//Zep6x/qRJ137mUHhP5qvz+jZrNzp1polKdxDjxw9nHGW545Y+8yzWpXHE3jf+7XpseXJmtXFO3fefc1Sv8AcN1QbVpTjFp8p1eeMd6SMfEz2j8HT4tng6Slo/aTM+6GNhtvacPWf9UjzRT+wj5veKR/q5+X0c/0cW9OGiOpj2pTab8ljC9ObfxMeH1iMfM2cZyTOeK+UQtpPVDzPUf+I3/Xp/hTKS/5v5w6rD/4z5T/AFXbc9h+kdDqU0vaxxR/ijzXzxj4lnqcfPimqg0Ofwc9b+So7M1lWeg3MW+dOPaQ+K4cfNL+YgaPPy4rx6dVzxPS+JqMcx/u6S6Po1sW51bh/wAEX8pS/wDUy4dj73lr45m25cUfH+y+Fq58AAVfck9yUNSU7RcVPgSa9h+1mWeT59MdCDqJ1EX3x9lroq6O2OYzztbf39lfpbe1zW9XVW5hwJtcbfCuS7oxT6+pEjTZsuTmvGyytrtLpsHh4Z39ElvDatzeXv1i35yeOOOcPK5JxfwXyN+r0lrW56IvDeJUx08LL28pRd5bbt1mlGjVhLhT71GCb8ZPvNF66rLEVtCVjycP01pyUnr+qautt1rPZ07aku0qylGUsYWXxRbxnuSX3Ei2lmunmlesoOPX1ya2Mt+lYb9h6Ze6ZaVY1oODlNNZaeVjHc2Z6HFfHWYtGzXxbUY8+Ss4532hD19A1SW8O3VJ9n26lxZj7qknnGcke2nyfaObbpunU12CNF4fN7XLsxqegapW3a60aTdPtoS4sx6Jxy8Zz3MZdPknUc0R03gwa3BXR+HNuu0rBvjT7rUtIjCjHikqibSaXLhks835ola3HbJj2r6q7hefHhzTa87Rt/ZHaTtqvcbUlbVl2c+0c4Zw8PCw+T6PmviasWmmcE0t0ndJ1HEK11kZsc7xttKOsIbs0Cm6VOkpwzlcuNc+vC001nwZppGqwxy1jeEnNOg1U+Ja20/osGi/p25sa7ulhyjinH2V3SzyXTqupLw+NatvE+St1X2Wl6eBPSO6I2Nomp6bq0p1qbhF02stxfPii+5vwZH0WnyY772jyTuK6zDmwxXHbed3zvjQ9T1LV1OjSco9mllOK55ly5teKPNbp8mTJvWPI4VrcOHDNcltp3TW6rC7vdrdlTg5T9j2U13Yz1eCTqcdr4OWsdeiBoM2PHque87R1SepabT1HSJUJLCccLya6NejSN2TFF8fJKNhzzizRkj1QF/a6tf7LdGdJ9snGOMx9pRkvaTzjp+DI2SmW+m5Zj2k/FkwYtb4lbezP8t47OrcWlXd1YW86STqUJRlwN+9hLK9eS+8z1GG1q1mveGrRajHjvet/wANomN2amoavqlLsYW06LksTqVGsRT5PgXWT8BOTLkjliu3vkjBp8M89rxbbtEefx9G7Z9nc2O31SqwcZJy5PHe2109TLS0tTFy2jqw4hmpl1E3pO8dGNk2Nzp+hqnVi4y45PDw+T6dBo6Wpj2tBxLNTLn5qTvG0J8lIDz++0nUJ767ZUpun2sHxY5YShl/DD+RU3w5J1PNEdN4dFi1WGNB4c2jfaen6vQC2c68t1fb2qW+p1o0aU5U5Pk4rk4txnj4NL5FHm02St7csdJdbptdgthpOS0RaP8A4v22tPemaJTptYljM/4pc38s4+Ba6bH4eOKuc1ufxs9r+XklDeigAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB//9k=" group-title="DEUTSCH",Sonnenklar_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/613.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Servus_TV_HD" tvg-logo="https://www.projekt-spielberg.com/assets/der-spielberg.at/public/partner/_280x280/servus-tv.jpg" group-title="DEUTSCH",Servus_TV_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/677.ts
+#EXTINF:-1 tvg-ID="" tvg-name="QVC" tvg-logo="http://www.udservices.org/wp-content/uploads/2015/04/QVClogo_red-300x300.jpg" group-title="DEUTSCH",QVC
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/681.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A&E" tvg-logo="" group-title="DEUTSCH",A&E
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/588.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN" tvg-logo="" group-title="DEUTSCH",AXN
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/634.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ARTE" tvg-logo="" group-title="DEUTSCH",ARTE
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/593.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ARD" tvg-logo="" group-title="DEUTSCH",ARD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/590.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ANIXE_HD" tvg-logo="http://www.quintus-media.com/news/anixe-hd.jpg" group-title="DEUTSCH",ANIXE_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/609.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3SAT" tvg-logo="" group-title="DEUTSCH",3SAT
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/589.ts
+#EXTINF:-1 tvg-ID="" tvg-name="13TH_STREET" tvg-logo="http://www.evard.ch/digitv/logo/13th-street_hd.jpg" group-title="DEUTSCH",13TH_STREET
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/587.ts
+#EXTINF:-1 tvg-ID="" tvg-name="*-*-*-*-*SKY_SPORT*-*-*-*-*" tvg-logo="" group-title="DEUTSCH",*-*-*-*-*SKY_SPORT*-*-*-*-*
+http://www.all.com:8000/live/jL7dKQMzLI/B9ThAZB31B/497.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Bundesliga_1" tvg-logo="http://live.deniia.com/assets/img/chainelogo/skybundesliga1.jpg" group-title="DEUTSCH",Sky_Bundesliga_1
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/663.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Bundesliga_2" tvg-logo="http://live.deniia.com/assets/img/chainelogo/skybundesliga2.jpg" group-title="DEUTSCH",Sky_Bundesliga_2
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/664.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Bundesliga_3" tvg-logo="http://live.deniia.com/assets/img/chainelogo/skybundesliga3.jpg" group-title="DEUTSCH",Sky_Bundesliga_3
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/665.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Bundesliga_4" tvg-logo="http://live.deniia.com/assets/img/chainelogo/skybundesliga4.jpg" group-title="DEUTSCH",Sky_Bundesliga_4
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/666.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Bundesliga_5" tvg-logo="http://live.deniia.com/assets/img/chainelogo/skybundesliga5.jpg" group-title="DEUTSCH",Sky_Bundesliga_5
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/667.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Bundesliga_6" tvg-logo="http://live.deniia.com/assets/img/chainelogo/skybundesliga6.jpg" group-title="DEUTSCH",Sky_Bundesliga_6
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/668.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Bundesliga_7" tvg-logo="http://live.deniia.com/assets/img/chainelogo/skybundesliga7.jpg" group-title="DEUTSCH",Sky_Bundesliga_7
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/669.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT" tvg-logo="" group-title="DEUTSCH",EUROSPORT
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/661.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Bundesliga_8" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Bundesliga-8-DE_o.jpg" group-title="DEUTSCH",Sky_Bundesliga_8
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/659.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NTV" tvg-logo="" group-title="DEUTSCH",NTV
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/660.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SPORT_1_HD" tvg-logo="http://tvonclick.net/wp-content/uploads/2013/01/sky-sports-1.jpg" group-title="DEUTSCH",SKY_SPORT_1_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/670.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SPORT_2_HD" tvg-logo="http://2.bp.blogspot.com/-ZVpAMU7jcQw/T3iy-EjbxkI/AAAAAAAAEy8/YTkUOYIB9mo/s1600/Sky%2BSports%2B2.png" group-title="DEUTSCH",SKY_SPORT_2_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/671.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SPORT_NEWS_HD" tvg-logo="http://www.diesl.com/wp-content/uploads/2013/02/logo-sky-sport-news-hd.png" group-title="DEUTSCH",SKY_SPORT_NEWS_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/611.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORT1" tvg-logo="https://pbs.twimg.com/profile_images/726059518061383680/cZxtg0Xb.jpg" group-title="DEUTSCH",SPORT1
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/662.ts
+#EXTINF:-1 tvg-ID="" tvg-name="*-*-*-*-*SKY_SELECT*-*-*-*-*" tvg-logo="" group-title="DEUTSCH",*-*-*-*-*SKY_SELECT*-*-*-*-*
+http://www.all.com:8000/live/jL7dKQMzLI/B9ThAZB31B/497.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SELECT_1_HD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b2/Sky_de_select_1.jpg" group-title="DEUTSCH",SKY_SELECT_1_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/684.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SELECT_2_HD" tvg-logo="http://www.satfinder.info/frequenzen/logo/sky_select_2.jpg" group-title="DEUTSCH",SKY_SELECT_2_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/685.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SELECT_3_HD" tvg-logo="http://www.satfinder.info/frequenzen/logo/sky_select_3.jpg" group-title="DEUTSCH",SKY_SELECT_3_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/686.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SELECT_4_HD" tvg-logo="http://www.satfinder.info/frequenzen/logo/sky_select_4.jpg" group-title="DEUTSCH",SKY_SELECT_4_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/687.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SELECT_5_HD" tvg-logo="http://www.satfinder.info/frequenzen/logo/sky_select_5.jpg" group-title="DEUTSCH",SKY_SELECT_5_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/688.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SELECT_6_HD" tvg-logo="http://www.satfinder.info/frequenzen/logo/sky_select_6.jpg" group-title="DEUTSCH",SKY_SELECT_6_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/689.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SELECT_7_HD" tvg-logo="http://satfinder.info/frequenzen/logo/sky_select_7.jpg" group-title="DEUTSCH",SKY_SELECT_7_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/690.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SELECT_8_HD" tvg-logo="http://www.satfinder.info/frequenzen/logo/sky_select_8.jpg" group-title="DEUTSCH",SKY_SELECT_8_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/691.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SELECT_9_HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_select_9.jpg" group-title="DEUTSCH",SKY_SELECT_9_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/692.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SELECT_HD" tvg-logo="http://www.paytvanbieter-online.de/wp-content/uploads/2012/08/skyselect1.gif" group-title="DEUTSCH",SKY_SELECT_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/683.ts
