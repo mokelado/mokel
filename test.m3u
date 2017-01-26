@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Trek FR" tvg-name="Trek HD FR" tvg-logo="http://secure.clientportal.link/picons/trek.png" group-title="France",Trek HD FR
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13185.ts
+
+
+#EXTINF:-1 tvg-id="Ushuaia TV FR" tvg-name="Ushuaïa TV HD FR" tvg-logo="http://secure.clientportal.link/picons/ushuaiatv.png" group-title="France",Ushuaïa TV HD FR
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/4491.ts
