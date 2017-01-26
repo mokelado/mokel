@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Toute lhistoire FR" tvg-name="Toute l'Histoire FR" tvg-logo="http://secure.clientportal.link/picons/toutelhistoire.png" group-title="France",Toute l'Histoire FR
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7798.ts
