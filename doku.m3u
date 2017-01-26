@@ -1,0 +1,41 @@
+#EXTM3U
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo AD ARB" tvg-logo="" group-title="Arab Countries",Nat Geo AD ARB
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/5787.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Animal Planet HD ARB" tvg-logo="" group-title="Arab Countries",OSN Animal Planet HD ARB
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/5751.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery Family HD ARB" tvg-logo="" group-title="Arab Countries",OSN Discovery Family HD ARB
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13715.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery HD ARB" tvg-logo="" group-title="Arab Countries",OSN Discovery HD ARB
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/5747.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery IDX HD ARB" tvg-logo="" group-title="Arab Countries",OSN Discovery IDX HD ARB
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13722.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery SC HD ARB" tvg-logo="" group-title="Arab Countries",OSN Discovery SC HD ARB
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/12848.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Nat Geo People HD ARB" tvg-logo="" group-title="Arab Countries",OSN Nat Geo People HD ARB
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/12828.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Nat Geo Wild HD ARB" tvg-logo="" group-title="Arab Countries",OSN Nat Geo Wild HD ARB
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/12829.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN National Geo HD ARB" tvg-logo="" group-title="Arab Countries",OSN National Geo HD ARB
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13717.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN History HD ARB" tvg-logo="" group-title="Arab Countries",OSN History HD ARB
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/12842.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Travel Channel HD ARB" tvg-logo="" group-title="Arab Countries",OSN Travel Channel HD ARB
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13736.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Nat Geo HD ARB" tvg-logo="" group-title="Arab Countries",beIN Nat Geo HD ARB
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15771.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Nat Geo People ARB" tvg-logo="" group-title="Arab Countries",beIN Nat Geo People ARB
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15772.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Nat Geo Wild ARB" tvg-logo="" group-title="Arab Countries",beIN Nat Geo Wild ARB
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15773.ts
+
+
+
+
