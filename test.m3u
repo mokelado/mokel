@@ -1,0 +1,43 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-id="National Geographic FR" tvg-name="National Geographic FR" tvg-logo="http://secure.clientportal.link/picons/nationalgeographicchannel.png" group-title="France",National Geographic FR
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/4467.ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="Science Vie TV FR" tvg-name="Science & Vie TV HD FR" tvg-logo="http://secure.clientportal.link/picons/scienceetvietv.png" group-title="France",Science & Vie TV HD FR
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13115.ts
+#EXTINF:-1 tvg-id="Animaux FR" tvg-name="Animaux FR" tvg-logo="http://secure.clientportal.link/picons/animaux.png" group-title="France",Animaux FR
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/4469.ts
+#EXTINF:-1 tvg-id="Chasse et peche FR" tvg-name="Chasse & Peche FR" tvg-logo="http://secure.clientportal.link/picons/chasseandpeche.png" group-title="France",Chasse & Peche FR
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/2257.ts
+#EXTINF:-1 tvg-id="Discovery Science FR" tvg-name="Discovery Science HD FR" tvg-logo="http://secure.clientportal.link/picons/discoveryscience.png" group-title="France",Discovery Science HD FR
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7578.ts
+#EXTINF:-1 tvg-id="Histoire FR" tvg-name="Histoire HD FR" tvg-logo="http://secure.clientportal.link/picons/histoire.png" group-title="France",Histoire HD FR
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13166.ts
+#EXTINF:-1 tvg-id="Discovery Channel FR" tvg-name="Discovery Channel HD FR" tvg-logo="http://secure.clientportal.link/picons/discoverychannel.png" group-title="France",Discovery Channel HD FR
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7579.ts
+#EXTINF:-1 tvg-id="PlanetePlus Action Experience FR" tvg-name="Planete+ Action & Experience HD FR" tvg-logo="http://secure.clientportal.link/picons/planeteplusae.png" group-title="France",Planete+ Action & Experience HD FR
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13124.ts
+#EXTINF:-1 tvg-id="PlanetePlus FR" tvg-name="Planete+ HD FR" tvg-logo="http://secure.clientportal.link/picons/planeteplus.png" group-title="France",Planete+ HD FR
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/2247.ts
+#EXTINF:-1 tvg-id="RMC Decouverte FR" tvg-name="RMC Decouverte HD FR" tvg-logo="http://secure.clientportal.link/picons/rmcdecouverte.png" group-title="France",RMC Decouverte HD FR
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13157.ts
+#EXTINF:-1 tvg-id="Trek FR" tvg-name="Trek HD FR" tvg-logo="http://secure.clientportal.link/picons/trek.png" group-title="France",Trek HD FR
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13185.ts
+#EXTINF:-1 tvg-id="Ushuaia TV FR" tvg-name="Ushuaïa TV HD FR" tvg-logo="http://secure.clientportal.link/picons/ushuaiatv.png" group-title="France",Ushuaïa TV HD FR
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/4491.ts
+#EXTINF:-1 tvg-id="PlanetePlus Action Experience FR" tvg-name="Planete+ Action & Experience FR" tvg-logo="http://secure.clientportal.link/picons/planeteplusae.png" group-title="France",Planete+ Action & Experience FR
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/2248.ts
+#EXTINF:-1 tvg-id="PlanetePlus Crime Investigation FR" tvg-name="Planete+ Crime & Investigation HD FR" tvg-logo="http://secure.clientportal.link/picons/planeteplusci.png" group-title="France",Planete+ Crime & Investigation HD FR
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/2249.ts
+#EXTINF:-1 tvg-id="Science Vie TV FR" tvg-name="Science & Vie TV FR" tvg-logo="http://secure.clientportal.link/picons/scienceetvietv.png" group-title="France",Science & Vie TV FR
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7799.ts
+#EXTINF:-1 tvg-id="Toute lhistoire FR" tvg-name="Toute l'Histoire FR" tvg-logo="http://secure.clientportal.link/picons/toutelhistoire.png" group-title="France",Toute l'Histoire FR
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7798.ts
+#EXTINF:-1 tvg-id="Voyage HD FR" tvg-name="Voyage HD FR" tvg-logo="http://secure.clientportal.link/picons/voyage.png" group-title="France",Voyage HD FR
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13167.ts
