@@ -1,7 +1,0 @@
-#EXTM3U
-
-
-#EXTINF:-1 tvg-id="Nat Geo Wild FR" tvg-name="Nat Geo Wild HD FR" tvg-logo="http://secure.clientportal.link/picons/natgeowild.png" group-title="France",Nat Geo Wild HD FR
-http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3606.ts
-#EXTINF:-1 tvg-id="National Geographic FR" tvg-name="National Geographic FR" tvg-logo="http://secure.clientportal.link/picons/nationalgeographicchannel.png" group-title="France",National Geographic FR
-http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/4467.ts
