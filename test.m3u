@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Histoire FR" tvg-name="Histoire HD FR" tvg-logo="http://secure.clientportal.link/picons/histoire.png" group-title="France",Histoire HD FR
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13166.ts
