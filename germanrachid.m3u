@@ -1,0 +1,293 @@
+#EXTM3U
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="########   Germany   ########" tvg-logo="" group-title="Germany",########   Germany   ########
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/13303.ts
+#EXTINF:-1 tvg-id="1-2-3.tv DE" tvg-name="1-2-3.tv DE" tvg-logo="http://secure.clientportal.link/picons/123tv.png" group-title="Germany",1-2-3.tv DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12342.ts
+#EXTINF:-1 tvg-id="13th Street DE" tvg-name="13th Street DE" tvg-logo="http://secure.clientportal.link/picons/13thstreet.png" group-title="Germany",13th Street DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3428.ts
+#EXTINF:-1 tvg-id="3sat DE" tvg-name="3sat DE" tvg-logo="http://secure.clientportal.link/picons/3sat.png" group-title="Germany",3sat DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12341.ts
+#EXTINF:-1 tvg-id="AandE DE" tvg-name="A&E DE" tvg-logo="http://secure.clientportal.link/picons/ae.png" group-title="Germany",A&E DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/13109.ts
+#EXTINF:-1 tvg-id="ANIXE DE" tvg-name="ANIXE DE" tvg-logo="http://secure.clientportal.link/picons/anixe.png" group-title="Germany",ANIXE DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3445.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATV AT" tvg-logo="" group-title="Austria",ATV AT
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12521.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATV HD AT" tvg-logo="" group-title="Austria",ATV HD AT
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12520.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATV2 AT" tvg-logo="" group-title="Austria",ATV2 AT
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12519.ts
+#EXTINF:-1 tvg-id="AXN HD DE" tvg-name="AXN HD DE" tvg-logo="http://secure.clientportal.link/picons/axnhd.png" group-title="Germany",AXN HD DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/9562.ts
+#EXTINF:-1 tvg-id="Animal Planet DE" tvg-name="Animal Planet HD DE" tvg-logo="http://secure.clientportal.link/picons/animalplanethd.png" group-title="Germany",Animal Planet HD DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/9561.ts
+#EXTINF:-1 tvg-id="arte DE" tvg-name="Arte HD DE" tvg-logo="http://secure.clientportal.link/picons/arte.png" group-title="Germany",Arte HD DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3827.ts
+#EXTINF:-1 tvg-id="Astro TV DE" tvg-name="Astro TV DE" tvg-logo="http://secure.clientportal.link/picons/astrotv.png" group-title="Germany",Astro TV DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12339.ts
+#EXTINF:-1 tvg-id="BR Fernsehen Nord DE" tvg-name="BR Fernsehen Nord DE" tvg-logo="http://secure.clientportal.link/picons/br.png" group-title="Germany",BR Fernsehen Nord DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12322.ts
+#EXTINF:-1 tvg-id="BR Fernsehen Süd DE" tvg-name="BR Fernsehen Süd DE" tvg-logo="http://secure.clientportal.link/picons/br.png" group-title="Germany",BR Fernsehen Süd DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12321.ts
+#EXTINF:-1 tvg-id="" tvg-name="BTV DE" tvg-logo="" group-title="Germany",BTV DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12320.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang DE" tvg-logo="http://secure.clientportal.link/picons/babytv.png" group-title="Germany",Boomerang DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12315.ts
+#EXTINF:-1 tvg-id="CLASSICA DE" tvg-name="CLASSICA DE" tvg-logo="http://secure.clientportal.link/picons/classica.png" group-title="Germany",CLASSICA DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/9555.ts
+#EXTINF:-1 tvg-id="" tvg-name="DKULTUR DE" tvg-logo="" group-title="Germany",DKULTUR DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12338.ts
+#EXTINF:-1 tvg-id="DMAX DE" tvg-name="DMAX DE" tvg-logo="http://secure.clientportal.link/picons/dmax.png" group-title="Germany",DMAX DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3431.ts
+#EXTINF:-1 tvg-id="Das Erste DE" tvg-name="Das Erste  DE" tvg-logo="http://secure.clientportal.link/picons/daserstehd.png" group-title="Germany",Das Erste  DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3451.ts
+#EXTINF:-1 tvg-id="Deluxe Music DE" tvg-name="Deluxe Music DE" tvg-logo="http://secure.clientportal.link/picons/deluxemusic.png" group-title="Germany",Deluxe Music DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/9554.ts
+#EXTINF:-1 tvg-id="Deutsches Musik Fernsehen DE" tvg-name="Deutsches Musik Fernsehen DE" tvg-logo="http://secure.clientportal.link/picons/deutschesmusikfernsehen.png" group-title="Germany",Deutsches Musik Fernsehen DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12334.ts
+#EXTINF:-1 tvg-id="Discovery Channel DE" tvg-name="Discovery Channel HD DE" tvg-logo="http://secure.clientportal.link/picons/discoverychannelhd.png" group-title="Germany",Discovery Channel HD DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3426.ts
+#EXTINF:-1 tvg-id="Disney Channel DE" tvg-name="Disney Channel DE" tvg-logo="http://secure.clientportal.link/picons/disneychannel.png" group-title="Germany",Disney Channel DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3622.ts
+#EXTINF:-1 tvg-id="Disney Cinemagic DE" tvg-name="Disney Cinemagic HD DE" tvg-logo="http://secure.clientportal.link/picons/disneycinemagichd.png" group-title="Germany",Disney Cinemagic HD DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/9548.ts
+#EXTINF:-1 tvg-id="Disney Junior DE" tvg-name="Disney Junior DE" tvg-logo="http://secure.clientportal.link/picons/disneyjunior.png" group-title="Germany",Disney Junior DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/9549.ts
+#EXTINF:-1 tvg-id="Disney XD DE" tvg-name="Disney XD DE" tvg-logo="http://secure.clientportal.link/picons/disneyxd.png" group-title="Germany",Disney XD DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/9547.ts
+#EXTINF:-1 tvg-id="E! DE" tvg-name="E! DE" tvg-logo="http://secure.clientportal.link/picons/e.png" group-title="Germany",E! DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3828.ts
+#EXTINF:-1 tvg-id="" tvg-name="E8 Television DE" tvg-logo="" group-title="Germany",E8 Television DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12337.ts
+#EXTINF:-1 tvg-id="" tvg-name="EWTN DE" tvg-logo="http://secure.clientportal.link/picons/ewtn.png" group-title="Germany",EWTN DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12336.ts
+#EXTINF:-1 tvg-id="Eurosport 1 DE" tvg-name="Eurosport 1 HD DE" tvg-logo="http://secure.clientportal.link/picons/eurosport1hd.png" group-title="Germany",Eurosport 1 HD DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3435.ts
+#EXTINF:-1 tvg-id="Eurosport 2 DE" tvg-name="Eurosport 2 DE" tvg-logo="http://secure.clientportal.link/picons/eurosport2uk.png" group-title="Germany",Eurosport 2 DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/9553.ts
+#EXTINF:-1 tvg-id="FOX HD DE" tvg-name="FOX HD DE" tvg-logo="http://secure.clientportal.link/picons/foxhd.png" group-title="Germany",FOX HD DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3425.ts
+#EXTINF:-1 tvg-id="Family TV DE" tvg-name="Family TV DE" tvg-logo="http://secure.clientportal.link/picons/familytv.png" group-title="Germany",Family TV DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/13108.ts
+#EXTINF:-1 tvg-id="Folx TV DE" tvg-name="Folx TV DE" tvg-logo="http://secure.clientportal.link/picons/folxtv.png" group-title="Germany",Folx TV DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12319.ts
+#EXTINF:-1 tvg-id="Fox Series DE" tvg-name="Fox Series DE" tvg-logo="http://secure.clientportal.link/picons/fox.png" group-title="Germany",Fox Series DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12294.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOTV DE" tvg-logo="" group-title="Germany",GOTV DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12318.ts
+#EXTINF:-1 tvg-id="Goldstar TV DE" tvg-name="Goldstar TV DE" tvg-logo="http://secure.clientportal.link/picons/goldstartv.png" group-title="Germany",Goldstar TV DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12293.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gute Laune TV DE" tvg-logo="http://secure.clientportal.link/picons/axnaction.png" group-title="Germany",Gute Laune TV DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/13110.ts
+#EXTINF:-1 tvg-id="HSE24 DE" tvg-name="HSE24 DE" tvg-logo="http://secure.clientportal.link/picons/hse24.png" group-title="Germany",HSE24 DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12292.ts
+#EXTINF:-1 tvg-id="HSE24 TREND DE" tvg-name="HSE24 TREND DE" tvg-logo="http://secure.clientportal.link/picons/hse24trend.png" group-title="Germany",HSE24 TREND DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12335.ts
+#EXTINF:-1 tvg-id="Heimatkanal DE" tvg-name="Heimatkanal DE" tvg-logo="http://secure.clientportal.link/picons/heimatkanal.png" group-title="Germany",Heimatkanal DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/9558.ts
+#EXTINF:-1 tvg-id="History DE" tvg-name="History DE" tvg-logo="http://secure.clientportal.link/picons/history.png" group-title="Germany",History DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3424.ts
+#EXTINF:-1 tvg-id="Junior DE" tvg-name="Junior TV DE" tvg-logo="http://secure.clientportal.link/picons/junior.png" group-title="Germany",Junior TV DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/9550.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kabel 1 AT" tvg-logo="" group-title="Austria",Kabel 1 AT
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12518.ts
+#EXTINF:-1 tvg-id="KiKa DE" tvg-name="KiKa DE" tvg-logo="http://secure.clientportal.link/picons/kika.png" group-title="Germany",KiKa DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/1648.ts
+#EXTINF:-1 tvg-id="Kinowelt TV DE" tvg-name="Kinowelt TV DE" tvg-logo="http://secure.clientportal.link/picons/kinowelttv.png" group-title="Germany",Kinowelt TV DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12291.ts
+#EXTINF:-1 tvg-id="" tvg-name="L-TV/TVM DE" tvg-logo="" group-title="Germany",L-TV/TVM DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12314.ts
+#EXTINF:-1 tvg-id="" tvg-name="LT1-OOE DE" tvg-logo="" group-title="Germany",LT1-OOE DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12313.ts
+#EXTINF:-1 tvg-id="MGM DE" tvg-name="MGM HD DE" tvg-logo="http://secure.clientportal.link/picons/mgmchannelhd.png" group-title="Germany",MGM HD DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3423.ts
+#EXTINF:-1 tvg-id="" tvg-name="MediaShop- Neuheiten DE" tvg-logo="" group-title="Germany",MediaShop- Neuheiten DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12333.ts
+#EXTINF:-1 tvg-id="" tvg-name="MediasparTV Homeshopping DE" tvg-logo="http://secure.clientportal.link/picons/mediaspartv.png" group-title="Germany",MediasparTV Homeshopping DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12332.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mei Musi TV DE" tvg-logo="" group-title="Germany",Mei Musi TV DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12312.ts
+#EXTINF:-1 tvg-id="" tvg-name="MeinTVShop DE" tvg-logo="" group-title="Germany",MeinTVShop DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12331.ts
+#EXTINF:-1 tvg-id="Motorvision TV DE" tvg-name="Motorvision TV DE" tvg-logo="http://secure.clientportal.link/picons/motorvision.png" group-title="Germany",Motorvision TV DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/9564.ts
+#EXTINF:-1 tvg-id="N24 DE" tvg-name="N24 DE" tvg-logo="http://secure.clientportal.link/picons/n24.png" group-title="Germany",N24 DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3448.ts
+#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR HD DE" tvg-logo="http://secure.clientportal.link/picons/ndrfernsehenhd.png" group-title="Germany",NDR HD DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3443.ts
+#EXTINF:-1 tvg-id="Nat Geo Wild DE" tvg-name="Nat Geo Wild HD DE" tvg-logo="http://secure.clientportal.link/picons/natgeowildhd.png" group-title="Germany",Nat Geo Wild HD DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/1646.ts
+#EXTINF:-1 tvg-id="National Geographic DE" tvg-name="National Geographic DE" tvg-logo="http://secure.clientportal.link/picons/nationalgeographicchannel.png" group-title="Germany",National Geographic DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3419.ts
+#EXTINF:-1 tvg-id="ORF 2 DE" tvg-name="ORF 2 DE" tvg-logo="http://secure.clientportal.link/picons/orf2.png" group-title="Germany",ORF 2 DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/1644.ts
+#EXTINF:-1 tvg-id="ORF 2 DE" tvg-name="ORF 2E DE" tvg-logo="http://secure.clientportal.link/picons/orf2.png" group-title="Germany",ORF 2E DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12304.ts
+#EXTINF:-1 tvg-id="" tvg-name="ORF III AT" tvg-logo="" group-title="Austria",ORF III AT
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12517.ts
+#EXTINF:-1 tvg-id="ORF III DE" tvg-name="ORF III DE" tvg-logo="http://secure.clientportal.link/picons/orfiii.png" group-title="Germany",ORF III DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12303.ts
+#EXTINF:-1 tvg-id="" tvg-name="ORF SPORT  AT" tvg-logo="" group-title="Austria",ORF SPORT  AT
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12516.ts
+#EXTINF:-1 tvg-id="ORF eins DE" tvg-name="ORF eins DE" tvg-logo="http://secure.clientportal.link/picons/orfeins.png" group-title="Germany",ORF eins DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12302.ts
+#EXTINF:-1 tvg-id="" tvg-name="ORF1 AT" tvg-logo="" group-title="Austria",ORF1 AT
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12515.ts
+#EXTINF:-1 tvg-id="" tvg-name="ORF2 AT" tvg-logo="" group-title="Austria",ORF2 AT
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12514.ts
+#EXTINF:-1 tvg-id="" tvg-name="ORF2E AT" tvg-logo="" group-title="Austria",ORF2E AT
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12513.ts
+#EXTINF:-1 tvg-id="" tvg-name="PULS 4 AT" tvg-logo="" group-title="Austria",PULS 4 AT
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12511.ts
+#EXTINF:-1 tvg-id="PHOENIX DE" tvg-name="Phoenix DE" tvg-logo="http://secure.clientportal.link/picons/phoenix.png" group-title="Germany",Phoenix DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3454.ts
+#EXTINF:-1 tvg-id="" tvg-name="ProSieben AT" tvg-logo="" group-title="Austria",ProSieben AT
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12512.ts
+#EXTINF:-1 tvg-id="ProSieben DE" tvg-name="ProSieben DE" tvg-logo="http://secure.clientportal.link/picons/prosieben.png" group-title="Germany",ProSieben DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/1642.ts
+#EXTINF:-1 tvg-id="ProSieben Maxx DE" tvg-name="ProSieben Maxx DE" tvg-logo="http://secure.clientportal.link/picons/prosiebenmaxx.png" group-title="Germany",ProSieben Maxx DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3444.ts
+#EXTINF:-1 tvg-id="QVC Beauty DE" tvg-name="QVC BEAUTY&STYLE DE" tvg-logo="http://secure.clientportal.link/picons/qvcbeautystyle.png" group-title="Germany",QVC BEAUTY&STYLE DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12329.ts
+#EXTINF:-1 tvg-id="QVC DE" tvg-name="QVC DE" tvg-logo="http://secure.clientportal.link/picons/qvc.png" group-title="Germany",QVC DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12330.ts
+#EXTINF:-1 tvg-id="RTL Crime DE" tvg-name="RTL Crime DE" tvg-logo="http://secure.clientportal.link/picons/rtlcrime.png" group-title="Germany",RTL Crime DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/1650.ts
+#EXTINF:-1 tvg-id="RTL DE" tvg-name="RTL DE" tvg-logo="http://secure.clientportal.link/picons/rtl.png" group-title="Germany",RTL DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3825.ts
+#EXTINF:-1 tvg-id="RTL DE" tvg-name="RTL FS DE" tvg-logo="http://secure.clientportal.link/picons/rtl.png" group-title="Germany",RTL FS DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12300.ts
+#EXTINF:-1 tvg-id="RTL DE" tvg-name="RTL HB NDS DE" tvg-logo="http://secure.clientportal.link/picons/rtl.png" group-title="Germany",RTL HB NDS DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12299.ts
+#EXTINF:-1 tvg-id="RTL II DE" tvg-name="RTL II DE" tvg-logo="http://secure.clientportal.link/picons/rtl2.png" group-title="Germany",RTL II DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3826.ts
+#EXTINF:-1 tvg-id="RTL Living DE" tvg-name="RTL Living DE" tvg-logo="http://secure.clientportal.link/picons/rtlliving.png" group-title="Germany",RTL Living DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3202.ts
+#EXTINF:-1 tvg-id="RTL NITRO DE" tvg-name="RTL NITRO A DE" tvg-logo="http://secure.clientportal.link/picons/rtlnitro.png" group-title="Germany",RTL NITRO A DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12301.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTL NITRO AT" tvg-logo="" group-title="Austria",RTL NITRO AT
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12510.ts
+#EXTINF:-1 tvg-id="RTL NITRO DE" tvg-name="RTL NITRO DE" tvg-logo="http://secure.clientportal.link/picons/rtlnitro.png" group-title="Germany",RTL NITRO DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/1639.ts
+#EXTINF:-1 tvg-id="RTL DE" tvg-name="RTL NRW DE" tvg-logo="http://secure.clientportal.link/picons/rtl.png" group-title="Germany",RTL NRW DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12298.ts
+#EXTINF:-1 tvg-id="RTL Passion DE" tvg-name="RTL Passion DE" tvg-logo="http://secure.clientportal.link/picons/rtlpassion.png" group-title="Germany",RTL Passion DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/9563.ts
+#EXTINF:-1 tvg-id="RTLplus DE" tvg-name="RTLplus DE" tvg-logo="http://secure.clientportal.link/picons/rtlplus.png" group-title="Germany",RTLplus DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12297.ts
+#EXTINF:-1 tvg-id="Regio tv DE" tvg-name="Regio TV DE" tvg-logo="http://secure.clientportal.link/picons/regiotv.png" group-title="Germany",Regio TV DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12328.ts
+#EXTINF:-1 tvg-id="RiC DE" tvg-name="RiC DE" tvg-logo="http://secure.clientportal.link/picons/ric.png" group-title="Germany",RiC DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12311.ts
+#EXTINF:-1 tvg-id="Romance TV DE" tvg-name="Romance TV DE" tvg-logo="http://secure.clientportal.link/picons/romancetv.png" group-title="Germany",Romance TV DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/13111.ts
+#EXTINF:-1 tvg-id="SAT.1 DE" tvg-name="SAT.1 Bayern DE" tvg-logo="http://secure.clientportal.link/picons/sat1.png" group-title="Germany",SAT.1 Bayern DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12310.ts
+#EXTINF:-1 tvg-id="Sat.1 Gold DE" tvg-name="SAT.1 Gold DE" tvg-logo="http://secure.clientportal.link/picons/sat1gold.png" group-title="Germany",SAT.1 Gold DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12309.ts
+#EXTINF:-1 tvg-id="SAT.1 DE" tvg-name="SAT.1 HD DE" tvg-logo="http://secure.clientportal.link/picons/sat1hd.png" group-title="Germany",SAT.1 HD DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/1637.ts
+#EXTINF:-1 tvg-id="SAT.1 DE" tvg-name="SAT.1 NRW DE" tvg-logo="http://secure.clientportal.link/picons/sat1.png" group-title="Germany",SAT.1 NRW DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12308.ts
+#EXTINF:-1 tvg-id="SIXX DE" tvg-name="SIXX Austria DE" tvg-logo="http://secure.clientportal.link/picons/sixx.png" group-title="Germany",SIXX Austria DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12306.ts
+#EXTINF:-1 tvg-id="SIXX DE" tvg-name="SIXX DE" tvg-logo="http://secure.clientportal.link/picons/sixx.png" group-title="Germany",SIXX DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/9560.ts
+#EXTINF:-1 tvg-id="SPIEGEL Geschichte DE" tvg-name="SPIEGEL Geschichte DE" tvg-logo="http://secure.clientportal.link/picons/spiegelgeschichte.png" group-title="Germany",SPIEGEL Geschichte DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3621.ts
+#EXTINF:-1 tvg-id="" tvg-name="SRF 1 HD DE" tvg-logo="http://secure.clientportal.link/picons/srf1hd.png" group-title="Switzerland",SRF 1 HD DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3446.ts
+#EXTINF:-1 tvg-id="" tvg-name="SRF Zwei DE" tvg-logo="http://secure.clientportal.link/picons/srfzwei.png" group-title="Switzerland",SRF Zwei DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3440.ts
+#EXTINF:-1 tvg-id="ZDFkultur DE" tvg-name="SWR DE" tvg-logo="http://secure.clientportal.link/picons/zdfkultur.png" group-title="Germany",SWR DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12296.ts
+#EXTINF:-1 tvg-id="ServusTV Deutschland DE" tvg-name="ServusTV Deutschland DE" tvg-logo="http://secure.clientportal.link/picons/servustv.png" group-title="Germany",ServusTV Deutschland DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12307.ts
+#EXTINF:-1 tvg-id="" tvg-name="ServusTV Oesterreich AT" tvg-logo="" group-title="Austria",ServusTV Oesterreich AT
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12509.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky 1 HD DE" tvg-logo="http://secure.clientportal.link/picons/jukebox.png" group-title="Germany",Sky 1 HD DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/9557.ts
+#EXTINF:-1 tvg-id="Sky Atlantic DE" tvg-name="Sky Atlantic HD DE" tvg-logo="http://secure.clientportal.link/picons/skyatlantichd.png" group-title="Germany",Sky Atlantic HD DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/1645.ts
+#EXTINF:-1 tvg-id="Sky Cinema Plus24 DE" tvg-name="Sky Cinema +24 DE" tvg-logo="http://secure.clientportal.link/picons/skycinemaplus24.png" group-title="Germany",Sky Cinema +24 DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/1633.ts
+#EXTINF:-1 tvg-id="Sky Cinema DE" tvg-name="Sky Cinema DE" tvg-logo="http://secure.clientportal.link/picons/skycinema.png" group-title="Germany",Sky Cinema DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/1634.ts
+#EXTINF:-1 tvg-id="Sky Comedy DE" tvg-name="Sky Comedy DE" tvg-logo="http://secure.clientportal.link/picons/skycomedy.png" group-title="Germany",Sky Comedy DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3430.ts
+#EXTINF:-1 tvg-id="Sky Emotion DE" tvg-name="Sky Emotion DE" tvg-logo="http://secure.clientportal.link/picons/skyemotion.png" group-title="Germany",Sky Emotion DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/1631.ts
+#EXTINF:-1 tvg-id="Sky Hits DE" tvg-name="Sky Hits DE" tvg-logo="http://secure.clientportal.link/picons/skyhits.png" group-title="Germany",Sky Hits DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3203.ts
+#EXTINF:-1 tvg-id="Sky Krimi DE" tvg-name="Sky Krimi DE" tvg-logo="http://secure.clientportal.link/picons/skykrimi.png" group-title="Germany",Sky Krimi DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3429.ts
+#EXTINF:-1 tvg-id="Sky Nostalgie DE" tvg-name="Sky Nostalgie DE" tvg-logo="http://secure.clientportal.link/picons/skynostalgie.png" group-title="Germany",Sky Nostalgie DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/9556.ts
+#EXTINF:-1 tvg-id="Sky Sport 1 DE" tvg-name="Sky Sport 1 HD DE" tvg-logo="http://secure.clientportal.link/picons/skysport1hd.png" group-title="Germany",Sky Sport 1 HD DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/1479.ts
+#EXTINF:-1 tvg-id="Sky Sport 2 DE" tvg-name="Sky Sport 2 HD DE" tvg-logo="http://secure.clientportal.link/picons/skysport2hd.png" group-title="Germany",Sky Sport 2 HD DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/1480.ts
+#EXTINF:-1 tvg-id="Sky Sport Austria DE" tvg-name="Sky Sport Austria DE" tvg-logo="http://secure.clientportal.link/picons/skysportaustria.png" group-title="Germany",Sky Sport Austria DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/9551.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 DE" tvg-name="Sky Sport Bundesliga 1 HD DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga1hd.png" group-title="Germany",Sky Sport Bundesliga 1 HD DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3436.ts
+#EXTINF:-1 tvg-id="sonnenklar.TV DE" tvg-name="Sonnenklar.TV DE" tvg-logo="http://secure.clientportal.link/picons/sonnenklartv.png" group-title="Germany",Sonnenklar.TV DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12327.ts
+#EXTINF:-1 tvg-id="Sony TV DE" tvg-name="Sony TV HD DE" tvg-logo="http://secure.clientportal.link/picons/sonytvhd.png" group-title="Germany",Sony TV HD DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3447.ts
+#EXTINF:-1 tvg-id="SparhandyTV DE" tvg-name="Sparhandy TV DE" tvg-logo="http://secure.clientportal.link/picons/sparhandytv.png" group-title="Germany",Sparhandy TV DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12326.ts
+#EXTINF:-1 tvg-id="Sport1 DE" tvg-name="Sport1 DE" tvg-logo="http://secure.clientportal.link/picons/sport1.png" group-title="Germany",Sport1 DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/9552.ts
+#EXTINF:-1 tvg-id="Sport1 US DE" tvg-name="Sport1 US HD DE" tvg-logo="http://secure.clientportal.link/picons/sport1ushd.png" group-title="Germany",Sport1 US HD DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3450.ts
+#EXTINF:-1 tvg-id="" tvg-name="Starparadies AT" tvg-logo="" group-title="Austria",Starparadies AT
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12507.ts
+#EXTINF:-1 tvg-id="Super RTL DE" tvg-name="Super RTL DE" tvg-logo="http://secure.clientportal.link/picons/superrtl.png" group-title="Germany",Super RTL DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3456.ts
+#EXTINF:-1 tvg-id="Syfy DE" tvg-name="Syfy DE" tvg-logo="http://secure.clientportal.link/picons/syfy.png" group-title="Germany",Syfy DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3204.ts
+#EXTINF:-1 tvg-id="TLC DE" tvg-name="TLC DE" tvg-logo="http://secure.clientportal.link/picons/tlc.png" group-title="Germany",TLC DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12324.ts
+#EXTINF:-1 tvg-id="TNT Film DE" tvg-name="TNT Film DE" tvg-logo="http://secure.clientportal.link/picons/tntfilm.png" group-title="Germany",TNT Film DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3422.ts
+#EXTINF:-1 tvg-id="TNT Serie DE" tvg-name="TNT Serie DE" tvg-logo="http://secure.clientportal.link/picons/tntserie.png" group-title="Germany",TNT Serie DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3421.ts
+#EXTINF:-1 tvg-id="TOGGO plus DE" tvg-name="TOGGO plus DE" tvg-logo="http://secure.clientportal.link/picons/toggoplus.png" group-title="Germany",TOGGO plus DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12323.ts
+#EXTINF:-1 tvg-id="Tele 5 DE" tvg-name="Tele 5 DE" tvg-logo="http://secure.clientportal.link/picons/tele5.png" group-title="Germany",Tele 5 DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12325.ts
+#EXTINF:-1 tvg-id="Universal Channel DE" tvg-name="Universal Channel HD DE" tvg-logo="http://secure.clientportal.link/picons/universalchannelhd.png" group-title="Germany",Universal Channel HD DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3439.ts
+#EXTINF:-1 tvg-id="VOX DE" tvg-name="VOX HD DE" tvg-logo="http://secure.clientportal.link/picons/voxhd.png" group-title="Germany",VOX HD DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/1630.ts
+#EXTINF:-1 tvg-id="Viva - Comedy Central DE" tvg-name="Viva / Comedy Central DE" tvg-logo="http://secure.clientportal.link/picons/vivacomedycentral.png" group-title="Germany",Viva / Comedy Central DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12317.ts
+#EXTINF:-1 tvg-id="WDR DE" tvg-name="WDR HD DE" tvg-logo="http://secure.clientportal.link/picons/wdr.png" group-title="Germany",WDR HD DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3442.ts
+#EXTINF:-1 tvg-id="Welt der Wunder DE" tvg-name="Welt der Wunder DE" tvg-logo="http://secure.clientportal.link/picons/weltderwunder.png" group-title="Germany",Welt der Wunder DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12305.ts
+#EXTINF:-1 tvg-id="ZDF DE" tvg-name="ZDF DE" tvg-logo="http://secure.clientportal.link/picons/zdf.png" group-title="Germany",ZDF DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/1629.ts
+#EXTINF:-1 tvg-id="Zee One DE" tvg-name="Zee One DE" tvg-logo="http://secure.clientportal.link/picons/zeeone.png" group-title="Germany",Zee One DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/13112.ts
+#EXTINF:-1 tvg-id="HR-Fernsehen DE" tvg-name="hr fernsehen DE" tvg-logo="http://secure.clientportal.link/picons/hr.png" group-title="Germany",hr fernsehen DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12316.ts
+#EXTINF:-1 tvg-id="kabel eins DE" tvg-name="kabel eins HD DE" tvg-logo="http://secure.clientportal.link/picons/kabeleinshd.png" group-title="Germany",kabel eins HD DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/1649.ts
+#EXTINF:-1 tvg-id="n-tv DE" tvg-name="n-tv DE" tvg-logo="http://secure.clientportal.link/picons/ntv.png" group-title="Germany",n-tv DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3449.ts
+#EXTINF:-1 tvg-id="" tvg-name="sixx AT" tvg-logo="" group-title="Austria",sixx AT
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12508.ts
+#EXTINF:-1 tvg-id="sportdigital DE" tvg-name="sportdigital DE" tvg-logo="http://secure.clientportal.link/picons/sportdigital.png" group-title="Germany",sportdigital DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3841.ts
+#EXTINF:-1 tvg-id="ZDFinfo DE" tvg-name="zdf info DE" tvg-logo="http://secure.clientportal.link/picons/zdfinfo.png" group-title="Germany",zdf info DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/12295.ts
+#EXTINF:-1 tvg-id="ZDFneo DE" tvg-name="zdf_neo DE" tvg-logo="http://secure.clientportal.link/picons/zdfneo.png" group-title="Germany",zdf_neo DE
+http://clients.clientportal.link:8080/live/bfZL52lTIW/1m5jNqvWDd/3453.ts
