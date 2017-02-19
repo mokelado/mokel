@@ -1,0 +1,10 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="TF1" tvg-logo="http://ashtonatmip.tv/p/logo-tf1.png" group-title="FRENSH",TF1
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/287.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M6" tvg-logo="" group-title="FRENSH",M6
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/292.ts
+
+
+
