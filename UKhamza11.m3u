@@ -1,0 +1,158 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-ID="" tvg-name="*-*-*-*-*SKYUK*-*-*-*-*" tvg-logo="" group-title="ENGLISH",*-*-*-*-*SKYUK*-*-*-*-*
+http://www.all.com/102.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SPORT_F1" tvg-logo="https://pbs.twimg.com/profile_images/672809163123253248/r7Y7cDsL.png" group-title="ENGLISH",SKY_SPORT_F1
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/704.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CHANNEL_4" tvg-logo="" group-title="ENGLISH",CHANNEL_4
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/715.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SPORTS_NEWS_HD" tvg-logo="" group-title="ENGLISH",SKY_SPORTS_NEWS_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/725.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SPORTS_5_HD" tvg-logo="" group-title="ENGLISH",SKY_SPORTS_5_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/727.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SPORTS_4_HD" tvg-logo="" group-title="ENGLISH",SKY_SPORTS_4_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/728.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SPORTS_3_HD" tvg-logo="" group-title="ENGLISH",SKY_SPORTS_3_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/729.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SPORTS_2_HD" tvg-logo="" group-title="ENGLISH",SKY_SPORTS_2_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/730.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_SPORTS_1_HD" tvg-logo="" group-title="ENGLISH",SKY_SPORTS_1_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/731.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_ONE" tvg-logo="" group-title="ENGLISH",SKY_ONE
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/733.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_MOVIES_THRILLER" tvg-logo="" group-title="ENGLISH",SKY_MOVIES_THRILLER
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/762.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_MOVIES_SHOWCASE" tvg-logo="" group-title="ENGLISH",SKY_MOVIES_SHOWCASE
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/761.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_MOVIES_SELECT_HD" tvg-logo="" group-title="ENGLISH",SKY_MOVIES_SELECT_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/732.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Movies_SciFi_Horror" tvg-logo="" group-title="ENGLISH",Sky_Movies_SciFi_Horror
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/716.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_MOVIES_PREMIERE_HD" tvg-logo="" group-title="ENGLISH",SKY_MOVIES_PREMIERE_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/734.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_MOVIES_MODERN" tvg-logo="" group-title="ENGLISH",SKY_MOVIES_MODERN
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/735.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_MOVIES_DISNEY" tvg-logo="" group-title="ENGLISH",SKY_MOVIES_DISNEY
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/741.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_MOVIES_COMEDY_HD" tvg-logo="" group-title="ENGLISH",SKY_MOVIES_COMEDY_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/736.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_MOVIES_ATLANTIC_HD" tvg-logo="" group-title="ENGLISH",SKY_MOVIES_ATLANTIC_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/739.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Movies_Action_Adventure" tvg-logo="" group-title="ENGLISH",Sky_Movies_Action_Adventure
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/737.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky_Movies_Drama_Romance" tvg-logo="" group-title="ENGLISH",Sky_Movies_Drama_Romance
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/740.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY_ART_1" tvg-logo="" group-title="ENGLISH",SKY_ART_1
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/742.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTE_2_HD" tvg-logo="" group-title="ENGLISH",RTE_2_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/693.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTE_1_HD" tvg-logo="" group-title="ENGLISH",RTE_1_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/694.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NICK_JUNIOR" tvg-logo="" group-title="ENGLISH",NICK_JUNIOR
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/709.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL_GEOGRAPHY_WILD" tvg-logo="" group-title="ENGLISH",NATIONAL_GEOGRAPHY_WILD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/712.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV_ROCKS" tvg-logo="" group-title="ENGLISH",MTV_ROCKS
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/757.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV_MUSIC" tvg-logo="" group-title="ENGLISH",MTV_MUSIC
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/705.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV_HITS" tvg-logo="" group-title="ENGLISH",MTV_HITS
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/752.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MOVIES_FAMILY" tvg-logo="" group-title="ENGLISH",MOVIES_FAMILY
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/745.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MOVIES_4_MEN" tvg-logo="" group-title="ENGLISH",MOVIES_4_MEN
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/718.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MOTORS_TV" tvg-logo="" group-title="ENGLISH",MOTORS_TV
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/695.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ITV_4" tvg-logo="" group-title="ENGLISH",ITV_4
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/696.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ITV_3" tvg-logo="" group-title="ENGLISH",ITV_3
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/697.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ITV_2_HD" tvg-logo="" group-title="ENGLISH",ITV_2_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/748.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ITV_1_HD" tvg-logo="" group-title="ENGLISH",ITV_1_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/749.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HISTORIA" tvg-logo="" group-title="ENGLISH",HISTORIA
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/750.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GOOD_FOOD" tvg-logo="" group-title="ENGLISH",GOOD_FOOD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/699.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GOLD" tvg-logo="" group-title="ENGLISH",GOLD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/698.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CHANNEL_5" tvg-logo="" group-title="ENGLISH",CHANNEL_5
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/717.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FILM_4" tvg-logo="" group-title="ENGLISH",FILM_4
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/700.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT_2_HD" tvg-logo="http://snapshots.afvd.de/images/bild0009.png" group-title="ENGLISH",EUROSPORT_2_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/726.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT_1_HD" tvg-logo="" group-title="ENGLISH",EUROSPORT_1_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/723.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIERE_SPORT" tvg-logo="" group-title="ENGLISH",PREMIERE_SPORT
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/765.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY_XD" tvg-logo="" group-title="ENGLISH",DISNEY_XD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/719.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY_JUNIOR" tvg-logo="" group-title="ENGLISH",DISNEY_JUNIOR
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/711.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY_CHANNEL" tvg-logo="" group-title="ENGLISH",DISNEY_CHANNEL
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/721.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY_TURBO" tvg-logo="" group-title="ENGLISH",DISCOVERY_TURBO
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/751.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY_SCIENCE" tvg-logo="" group-title="ENGLISH",DISCOVERY_SCIENCE
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/713.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY_INVESTIGATION" tvg-logo="" group-title="ENGLISH",DISCOVERY_INVESTIGATION
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/753.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY_HD" tvg-logo="" group-title="ENGLISH",DISCOVERY_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/714.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY_HOME_HEALTH" tvg-logo="" group-title="ENGLISH",DISCOVERY_HOME_HEALTH
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/754.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY_HISTORY" tvg-logo="" group-title="ENGLISH",DISCOVERY_HISTORY
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/755.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RACING" tvg-logo="" group-title="ENGLISH",RACING
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/756.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CTH_STADIUM_6" tvg-logo="" group-title="ENGLISH",CTH_STADIUM_6
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/707.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CTH_STADIUM_5_HD" tvg-logo="" group-title="ENGLISH",CTH_STADIUM_5_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/706.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CTH_STADIUM_4_HD" tvg-logo="" group-title="ENGLISH",CTH_STADIUM_4_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/758.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CTH_STADIUM_3_HD" tvg-logo="" group-title="ENGLISH",CTH_STADIUM_3_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/759.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CTH_STADIUM_2_HD" tvg-logo="" group-title="ENGLISH",CTH_STADIUM_2_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/708.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CTH_STADIUM_1" tvg-logo="" group-title="ENGLISH",CTH_STADIUM_1
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/710.ts
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDY_CENTRAL" tvg-logo="" group-title="ENGLISH",COMEDY_CENTRAL
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/760.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BT_SPORT_EUROPE" tvg-logo="" group-title="ENGLISH",BT_SPORT_EUROPE
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/722.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SONY_TV" tvg-logo="" group-title="ENGLISH",SONY_TV
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/771.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CHELSEA_TV" tvg-logo="" group-title="ENGLISH",CHELSEA_TV
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/738.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CBS_REALITY" tvg-logo="" group-title="ENGLISH",CBS_REALITY
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/701.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CBS_DRAMA" tvg-logo="" group-title="ENGLISH",CBS_DRAMA
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/720.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CBS_ACTION" tvg-logo="" group-title="ENGLISH",CBS_ACTION
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/702.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CARTOON_NETWORK" tvg-logo="" group-title="ENGLISH",CARTOON_NETWORK
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/724.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BT_SPORT_2" tvg-logo="" group-title="ENGLISH",BT_SPORT_2
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/763.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BT_SPORT_1" tvg-logo="" group-title="ENGLISH",BT_SPORT_1
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/764.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BOXNATION_HD" tvg-logo="" group-title="ENGLISH",BOXNATION_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/703.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBC_4" tvg-logo="" group-title="ENGLISH",BBC_4
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/766.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBC_3" tvg-logo="" group-title="ENGLISH",BBC_3
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/767.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBC_2" tvg-logo="" group-title="ENGLISH",BBC_2
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/768.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBC_1" tvg-logo="" group-title="ENGLISH",BBC_1
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/769.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL_PLANET" tvg-logo="" group-title="ENGLISH",ANIMAL_PLANET
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/770.ts
+
+
+
+
