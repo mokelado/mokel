@@ -1,0 +1,129 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAUX_HD" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/288X218/CHN43FB_79.PNG" group-title="FRENSH",ANIMAUX_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/414.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USHUAIA_TV_HD" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/17/USHUAIA_TV_HD_2009.jpg" group-title="FRENSH",USHUAIA_TV_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/410.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL_GEO_WILD_HD" tvg-logo="http://www.singteltv.com.sg/_channels/pic_ch207.jpg" group-title="FRENSH",NATIONAL_GEO_WILD_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/409.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL_GEO_HD" tvg-logo="http://tvimages.burrp.com/images/channels2/documentary/National-Geographic-Channel-HD.png" group-title="FRENSH",NATIONAL_GEO_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/408.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY_SCIENCES" tvg-logo="http://tvimages.burrp.com/images/channels2/Documentary/Discovery-Science.png" group-title="FRENSH",DISCOVERY_SCIENCES
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/412.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY_SHOWCASE_HD" tvg-logo="http://tv-novini.com/upload/articles/Discovery_ShowcaseHD_Exclusive_Black_RGB.png" group-title="FRENSH",DISCOVERY_SHOWCASE_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/411.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VOYAGE_HD" tvg-logo="http://www.dvbxtreme.com/wp-content/uploads/2016/10/Voyage-HD.png" group-title="FRENSH",VOYAGE_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/413.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TOUTE_L_HISTOIRE" tvg-logo="http://www.ecpad.fr/wp-content/uploads/2011/09/Toute-lhistoire.jpg" group-title="FRENSH",TOUTE_L_HISTOIRE
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/424.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SCIENCES&VIE_TV" tvg-logo="http://img.over-blog-kiwi.com/0/95/30/84/20150323/ob_e9971e_47947-logo-svtv.jpg" group-title="FRENSH",SCIENCES&VIE_TV
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/416.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RMC_DECOUVERTE" tvg-logo="https://pbs.twimg.com/profile_images/425693902348099584/Vp3IMdjd_400x400.png" group-title="FRENSH",RMC_DECOUVERTE
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/368.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PLANETE_AE_HD" tvg-logo="http://image.cellulaire.fr/channel/planete-aete-chaine-guide-tv.png" group-title="FRENSH",PLANETE_AE_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/406.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PLANETE_HD" tvg-logo="http://www.jeanmarcmorandini.com/sites/jeanmarcmorandini.com/files/styles/liste-centrale-grande/public/-119707.jpg" group-title="FRENSH",PLANETE_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/404.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PLANETE_CI" tvg-logo="http://www.megazap.fr/photo/art/default/8741083-13807822.jpg" group-title="FRENSH",PLANETE_CI
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/405.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CHASSE&PECHE" tvg-logo="http://idata.over-blog.com/0/20/49/74/logos-hd/AB-Groupe/chasse-peche.jpg" group-title="FRENSH",CHASSE&PECHE
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/415.ts
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Nat-Geo-Wild-HD" tvg-logo="http://www.lemediaplus.com/wp-content/uploads/2016/01/NAtGeoWild-1.jpg" group-title="ARABIC",OSN-Nat-Geo-Wild-HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/262.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="OSN_DISCOVERY_SCIENCE_HD" tvg-logo="http://www.cne-eg.com/UploadFolder/logos/234%5ESCI.jpg" group-title="ARABIC",OSN_DISCOVERY_SCIENCE_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/277.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="OSN_DISCOVERY_HD" tvg-logo="https://activpn.com/images/watch_outside_ca/The%20Discovery%20Channel.png" group-title="ARABIC",OSN_DISCOVERY_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/273.ts
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="OSN_ANIMAL_PLANET" tvg-logo="http://seeklogo.com/images/A/Animal_Planet-logo-4559600D22-seeklogo.com.gif" group-title="ARABIC",OSN_ANIMAL_PLANET
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/276.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="SPIEGEL_GESCHICHTE" tvg-logo="" group-title="DEUTSCH",SPIEGEL_GESCHICHTE
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/614.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL_PLANET_DE" tvg-logo="" group-title="DEUTSCH",ANIMAL_PLANET_DE
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/610.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="NAT_GEO_WILD" tvg-logo="" group-title="DEUTSCH",NAT_GEO_WILD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/673.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL_GEOGRAPHIC_HD" tvg-logo="" group-title="DEUTSCH",NATIONAL_GEOGRAPHIC_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/675.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="HISTORY_CHANNEL" tvg-logo="" group-title="DEUTSCH",HISTORY_CHANNEL
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/676.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="DMAX" tvg-logo="" group-title="DEUTSCH",DMAX
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/633.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY_CHANNEL" tvg-logo="" group-title="DEUTSCH",DISCOVERY_CHANNEL
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/674.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY_TURBO" tvg-logo="" group-title="ENGLISH",DISCOVERY_TURBO
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/751.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY_SCIENCE" tvg-logo="" group-title="ENGLISH",DISCOVERY_SCIENCE
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/713.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY_INVESTIGATION" tvg-logo="" group-title="ENGLISH",DISCOVERY_INVESTIGATION
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/753.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY_HD" tvg-logo="" group-title="ENGLISH",DISCOVERY_HD
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/714.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY_HOME_HEALTH" tvg-logo="" group-title="ENGLISH",DISCOVERY_HOME_HEALTH
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/754.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY_HISTORY" tvg-logo="" group-title="ENGLISH",DISCOVERY_HISTORY
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/755.ts
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL_PLANET" tvg-logo="" group-title="ENGLISH",ANIMAL_PLANET
+http://pro.leaderiptv.com:8000/live/hamza11/hamza11/770.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
