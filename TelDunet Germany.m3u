@@ -1,0 +1,209 @@
+#EXTM3U
+
+#EXTINF:2460,DE: Sky Sport News
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_sport_news/de_sky_sport_news
+#EXTINF:2462,DE: Sky Sport +1
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_sport_1/de_sky_sport_1
+#EXTINF:2464,DE: Sky Sport 1 HD
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_sport_1_hd/de_sky_sport_1_hd
+#EXTINF:2466,DE: Sky Sport 2 HD
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_sport_2_hd/de_sky_sport_2_hd
+#EXTINF:2468,DE: Sky Sport 1
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_sport_1/de_sky_sport_1
+#EXTINF:2470,DE: Sky Sport 2
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_sport_2/de_sky_sport_2
+#EXTINF:2472,DE: Sky Eurosport
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_eurosport/de_sky_eurosport
+#EXTINF:2474,DE: Sky Sport Austria
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_sport_austria/de_sky_sport_austria
+#EXTINF:2476,DE: Sky Bundesliga HD 1
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_bundesliga_hd_1/de_sky_bundesliga_hd_1
+#EXTINF:2478,DE: Sky Bundesliga 2
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_bundesliga_2/de_sky_bundesliga_2
+#EXTINF:2480,DE: Sky Bundesliga 3
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_bundesliga_3/de_sky_bundesliga_3
+#EXTINF:2482,DE: Sky Bundesliga 4
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_bundesliga_4/de_sky_bundesliga_4
+#EXTINF:2484,DE: Sky Bundesliga 5
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_bundesliga_5/de_sky_bundesliga_5
+#EXTINF:2486,DE: Sky Bundesliga 6
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_bundesliga_6/de_sky_bundesliga_6
+#EXTINF:2488,DE: Sky Bundesliga 7
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_bundesliga_7/de_sky_bundesliga_7
+#EXTINF:2490,DE: Sky Bundesliga 8
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_bundesliga_8/de_sky_bundesliga_8
+#EXTINF:2492,DE: Sky Bundesliga 9
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_bundesliga_9/de_sky_bundesliga_9
+#EXTINF:2494,DE: Sky Sport 3 (Only at Games)
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_sport_3_only_at_games/de_sky_sport_3_only_at_games
+#EXTINF:2496,DE: Sky Sport 4 (Only at Games)
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_sport_4_only_at_games/de_sky_sport_4_only_at_games
+#EXTINF:2498,DE: Sky Sport 5 (Only at Games)
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_sport_5_only_at_games/de_sky_sport_5_only_at_games
+#EXTINF:2500,DE: Sky Sport 6 (Only at Games)
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_sport_6_only_at_games/de_sky_sport_6_only_at_games
+#EXTINF:2502,DE: Sky Sport 7 (Only at Games)
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_sport_7_only_at_games/de_sky_sport_7_only_at_games
+#EXTINF:2504,DE: Sky Sport 8 (Only at Games)
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_sport_8_only_at_games/de_sky_sport_8_only_at_games
+#EXTINF:2506,DE: Sky Sport 9 (Only at Games)
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_sport_9_only_at_games/de_sky_sport_9_only_at_games
+#EXTINF:2508,DE: Sky Sport 10 (Only at Games)
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_sport_10_only_at_games/de_sky_sport_10_only_at_games
+#EXTINF:2510,DE: Sky Select 1
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_select_1/de_sky_select_1
+#EXTINF:2512,DE: Sky Select 2
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_select_2/de_sky_select_2
+#EXTINF:2514,DE: Sky Select 3
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_select_3/de_sky_select_3
+#EXTINF:2516,DE: Sky Select 4
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_select_4/de_sky_select_4
+#EXTINF:2518,DE: Sky Select 5
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_select_5/de_sky_select_5
+#EXTINF:2520,DE: Sky Select 6
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_select_6/de_sky_select_6
+#EXTINF:2522,DE: Sky Select 7
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_select_7/de_sky_select_7
+#EXTINF:2524,DE: Sky Select 8
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_select_8/de_sky_select_8
+#EXTINF:2526,DE: Sky Action
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_action/de_sky_action
+#EXTINF:2528,DE: Sky Cinema
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_cinema/de_sky_cinema
+#EXTINF:2530,DE: Sky Cinema +1
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_cinema_1/de_sky_cinema_1
+#EXTINF:2532,DE: Sky Cinema +24
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_cinema_24/de_sky_cinema_24
+#EXTINF:2534,DE: Sky Emotion
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_emotion/de_sky_emotion
+#EXTINF:2536,DE: Sky Comedy
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_comedy/de_sky_comedy
+#EXTINF:2538,DE: Sky HITS
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_hits/de_sky_hits
+#EXTINF:2540,DE: Sky Comedy Central
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_comedy_central/de_sky_comedy_central
+#EXTINF:2542,DE: Sky Teleclub Sport 1
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_teleclub_sport_1/de_sky_teleclub_sport_1
+#EXTINF:2544,DE: Sky Teleclub Sport 2
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_teleclub_sport_2/de_sky_teleclub_sport_2
+#EXTINF:2546,DE: Sky Teleclub Prime
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_teleclub_prime/de_sky_teleclub_prime
+#EXTINF:2548,DE: Sky Teleclub Cinema HD
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_teleclub_cinema_hd/de_sky_teleclub_cinema_hd
+#EXTINF:2550,DE: Sky Teleclub Cinema
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_teleclub_cinema/de_sky_teleclub_cinema
+#EXTINF:2552,DE: Sky Teleclub Star
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_teleclub_star/de_sky_teleclub_star
+#EXTINF:2554,DE: Sky RTL
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_rtl/de_sky_rtl
+#EXTINF:2556,DE: Sky RTL 2
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_rtl_2/de_sky_rtl_2
+#EXTINF:2558,DE: Sky RTL Nitro
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_rtl_nitro/de_sky_rtl_nitro
+#EXTINF:2560,DE: Sky RTL Crime
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_rtl_crime/de_sky_rtl_crime
+#EXTINF:2562,DE: Sky RTL Living
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_rtl_living/de_sky_rtl_living
+#EXTINF:2564,DE: Sky RTL Super
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_rtl_super/de_sky_rtl_super
+#EXTINF:2566,DE: Sky RTL Passion
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_rtl_passion/de_sky_rtl_passion
+#EXTINF:2568,DE: Sky Universal HD
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_universal_hd/de_sky_universal_hd
+#EXTINF:2570,DE: Sky Servus TV
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_servus_tv/de_sky_servus_tv
+#EXTINF:2572,DE: Sky Sat1 Gold
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_sat1_gold/de_sky_sat1_gold
+#EXTINF:2574,DE: Sky Austria 24 TV
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_austria_24_tv/de_sky_austria_24_tv
+#EXTINF:2576,DE: Sky Kinowelt
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_kinowelt/de_sky_kinowelt
+#EXTINF:2578,DE: Sky ZDF Info
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_zdf_info/de_sky_zdf_info
+#EXTINF:2580,DE: Sky SRF 1
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_srf_1/de_sky_srf_1
+#EXTINF:2582,DE: Sky ORF 3
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_orf_3/de_sky_orf_3
+#EXTINF:2584,DE: Sky ORF 2
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_orf_2/de_sky_orf_2
+#EXTINF:2586,DE: Sky ORF Enis
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_orf_enis/de_sky_orf_enis
+#EXTINF:2588,DE: Sky VOX
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_vox/de_sky_vox
+#EXTINF:2590,DE: Sky FOX
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_fox/de_sky_fox
+#EXTINF:2592,DE: Sky One
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_one/de_sky_one
+#EXTINF:2594,DE: Sky TNT Comedy HD
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_tnt_comedy_hd/de_sky_tnt_comedy_hd
+#EXTINF:2596,DE: Sky TNT Serie
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_tnt_serie/de_sky_tnt_serie
+#EXTINF:2598,DE: Sky TNT Film
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_tnt_film/de_sky_tnt_film
+#EXTINF:2600,DE: Sky Sony HD
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_sony_hd/de_sky_sony_hd
+#EXTINF:2602,DE: Sky Disney XD
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_disney_xd/de_sky_disney_xd
+#EXTINF:2604,DE: Sky Disney Channel
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_disney_channel/de_sky_disney_channel
+#EXTINF:2606,DE: Sky Cartoon Network
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_cartoon_network/de_sky_cartoon_network
+#EXTINF:2608,DE: Sky Nickelodeon
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_nickelodeon/de_sky_nickelodeon
+#EXTINF:2610,DE: Sky Boomerang
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_boomerang/de_sky_boomerang
+#EXTINF:2612,DE: Sky  ZEE ONE
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_zee_one/de_sky_zee_one
+#EXTINF:2614,DE: Sky National Geographic
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_national_geographic/de_sky_national_geographic
+#EXTINF:2616,DE: Sky Nat Geo wild
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_nat_geo_wild/de_sky_nat_geo_wild
+#EXTINF:2618,DE: Sky History
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_history/de_sky_history
+#EXTINF:2620,DE: Sky AXN HD
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_axn_hd/de_sky_axn_hd
+#EXTINF:2622,DE: Sky 13th Street
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_13th_street/de_sky_13th_street
+#EXTINF:2624,DE: Sky RTL C
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_rtl_c/de_sky_rtl_c
+#EXTINF:2626,DE: Sky Phoenix
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_phoenix/de_sky_phoenix
+#EXTINF:2628,DE: Sky Atlantic
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_atlantic/de_sky_atlantic
+#EXTINF:2630,DE: Sky Wdr
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_wdr/de_sky_wdr
+#EXTINF:2632,DE: Sky Sixx
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_sixx/de_sky_sixx
+#EXTINF:2634,DE: Sky Pro 7
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_pro_7/de_sky_pro_7
+#EXTINF:2636,DE: Sky NDR HD
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_ndr_hd/de_sky_ndr_hd
+#EXTINF:2638,DE: Sky N24
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_n24/de_sky_n24
+#EXTINF:2640,DE: Sky N-TV
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_n_tv/de_sky_n_tv
+#EXTINF:2642,DE: Sky Romance
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_romance/de_sky_romance
+#EXTINF:2644,DE: Sky Krimi HD
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_krimi_hd/de_sky_krimi_hd
+#EXTINF:2646,DE: Sky Kika
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_kika/de_sky_kika
+#EXTINF:2648,DE: Sky Kabel 1
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_kabel_1/de_sky_kabel_1
+#EXTINF:2650,DE: Sky Dmax
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_dmax/de_sky_dmax
+#EXTINF:2652,DE: Sky Pro 7 Max
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_pro_7_max/de_sky_pro_7_max
+#EXTINF:2654,DE: Sky Arte
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_arte/de_sky_arte
+#EXTINF:2656,DE: Sky ARD
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_ard/de_sky_ard
+#EXTINF:2658,DE: Camira
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_camira/de_camira
+#EXTINF:2660,DE: Sky 3sat
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_3sat/de_sky_3sat
+
+
+
+
+
