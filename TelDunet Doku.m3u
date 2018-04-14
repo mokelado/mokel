@@ -1,0 +1,77 @@
+#EXTM3U
+
+#EXTINF:2614,DE: Sky National Geographic
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_national_geographic/de_sky_national_geographic
+#EXTINF:2616,DE: Sky Nat Geo wild
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_nat_geo_wild/de_sky_nat_geo_wild
+#EXTINF:2618,DE: Sky History
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=de_sky_history/de_sky_history
+
+#EXTINF:1648,FR: Voyage TV
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=fr_voyage_tv/fr_voyage_tv
+#EXTINF:1654,FR: RMC Decouverte
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=fr_rmc_decouverte/fr_rmc_decouverte
+#EXTINF:1680,FR: Animaux HD
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=fr_animaux_hd/fr_animaux_hd
+#EXTINF:1682,FR: Planete AE+C
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=fr_planete_ae_c/fr_planete_ae_c
+#EXTINF:1684,FR: Planète + HD
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=fr_planete_hd/fr_planete_hd
+#EXTINF:1686,FR: NatIional Geo HD
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=fr_natiional_geo_hd/fr_natiional_geo_hd
+#EXTINF:1688,FR: Discovery Science HD
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=fr_discovery_science_hd/fr_discovery_science_hd
+#EXTINF:1722,FR: Ushuaia TV HD
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=fr_ushuaia_tv_hd/fr_ushuaia_tv_hd
+#EXTINF:1730,FR: Toute l Histoire
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=fr_toute_l_histoire/fr_toute_l_histoire
+
+
+
+#EXTINF:448,UK: Sky Quest
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=uk_sky_quest/uk_sky_quest
+#EXTINF:452,UK: Sky Travel Channel
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=uk_sky_travel_channel/uk_sky_travel_channel
+#EXTINF:528,UK: Sky Discovery Science
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=uk_sky_discovery_science/uk_sky_discovery_science
+#EXTINF:530,UK: Sky Discovery History
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=uk_sky_discovery_history/uk_sky_discovery_history
+#EXTINF:532,UK: Sky Discovery Turbo
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=uk_sky_discovery_turbo/uk_sky_discovery_turbo
+#EXTINF:534,UK: Sky Discovery Shed
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=uk_sky_discovery_shed/uk_sky_discovery_shed
+#EXTINF:536,UK: Sky Discovery
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=uk_sky_discovery/uk_sky_discovery
+#EXTINF:538,UK: Sky National Geographic HD
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=uk_sky_national_geographic_hd/uk_sky_national_geographic_hd
+#EXTINF:540,UK: Sky Nat Geo Wild HD
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=uk_sky_nat_geo_wild_hd/uk_sky_nat_geo_wild_hd
+#EXTINF:542,UK: Sky Animal Planet HD
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=uk_sky_animal_planet_hd/uk_sky_animal_planet_hd
+#EXTINF:544,UK: Sky History HD
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=uk_sky_history_hd/uk_sky_history_hd
+#EXTINF:546,UK: Sky History 2
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=uk_sky_history_2/uk_sky_history_2
+
+
+
+
+
+#EXTINF:3672,AR: Osn Discovry
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=ar_osn_discovry/ar_osn_discovry
+#EXTINF:3674,AR: Osn Discovry ID
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=ar_osn_discovry_id/ar_osn_discovry_id
+#EXTINF:3676,AR: Osn Discovry SCI ID
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=ar_osn_discovry_sci_id/ar_osn_discovry_sci_id
+#EXTINF:3678,AR: Osn Nat Geo People HD
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=ar_osn_nat_geo_people_hd/ar_osn_nat_geo_people_hd
+#EXTINF:3680,AR: Osn National Geo HD
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=ar_osn_national_geo_hd/ar_osn_national_geo_hd
+#EXTINF:3682,AR: Osn Nat Geo Wild HD
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=ar_osn_nat_geo_wild_hd/ar_osn_nat_geo_wild_hd
+#EXTINF:3684,AR: Osn Animal Planet
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=ar_osn_animal_planet/ar_osn_animal_planet
+#EXTINF:3686,AR: Osn History HD
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=ar_osn_history_hd/ar_osn_history_hd
+#EXTINF:3688,AR: Osn History 2 HD
+rtmp://www.teledunet.com:1935/world?idu=mokelado_i6rguct0ts6dllm&channel=ar_osn_history_2_hd/ar_osn_history_2_hd
