@@ -1,0 +1,158 @@
+#EXTM3U
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Discovery Channel DE" tvg-name="Discovery Channel FHD DE" tvg-logo="http://picon.space/discoverychannelhd.png" group-title="Doku  DE",Discovery Channel FHD DE
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/14063.ts
+#EXTINF:-1 tvg-id="Discovery Channel DE" tvg-name="Discovery Channel HD DE" tvg-logo="http://picon.space/discoverychannelhd.png" group-title="Doku  DE",Discovery Channel HD DE
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/3426.ts
+#EXTINF:-1 tvg-id="DMAX DE" tvg-name="DMAX DE" tvg-logo="http://picon.space/dmax.png" group-title="Doku  DE",DMAX DE
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/3431.ts
+#EXTINF:-1 tvg-id="History DE" tvg-name="History DE" tvg-logo="http://picon.space/history.png" group-title="Doku  DE",History DE
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/3424.ts
+#EXTINF:-1 tvg-id="History DE" tvg-name="History FHD DE" tvg-logo="http://picon.space/historyhd.png" group-title="Doku  DE",History FHD DE
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/14311.ts
+#EXTINF:-1 tvg-id="NAT GEO WILD DE" tvg-name="Nat Geo Wild FHD DE" tvg-logo="http://picon.space/natgeowildhd.png" group-title="Doku  DE",Nat Geo Wild FHD DE
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/14062.ts
+#EXTINF:-1 tvg-id="NAT GEO WILD DE" tvg-name="National Geographic Wild HD DE" tvg-logo="http://picon.space/natgeowildhd.png" group-title="Doku  DE",National Geographic Wild HD DE
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/1646.ts
+#EXTINF:-1 tvg-id="National Geographic DE" tvg-name="National Geographic DE" tvg-logo="http://picon.space/nationalgeo.png" group-title="Doku  DE",National Geographic DE
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/3419.ts
+#EXTINF:-1 tvg-id="National Geographic DE" tvg-name="National Geographic FHD DE" tvg-logo="http://picon.space/nationalgeographichd.png" group-title="Doku  DE",National Geographic FHD DE
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/14053.ts
+#EXTINF:-1 tvg-id="SPIEGEL Geschichte DE" tvg-name="SPIEGEL Geschichte DE" tvg-logo="http://picon.space/spiegelgeschichte.png" group-title="Doku  DE",SPIEGEL Geschichte DE
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/3621.ts
+#EXTINF:-1 tvg-id="SPIEGEL TV Wissen HD 1080P DE" tvg-name="SPIEGEL TV Wissen FHD DE" tvg-logo="http://picon.space/spiegeltvwissen.png" group-title="Doku  DE",SPIEGEL TV Wissen FHD DE
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/14045.ts
+#EXTINF:-1 tvg-id="Welt der Wunder DE" tvg-name="Welt der Wunder DE" tvg-logo="http://picon.space/weltderwunder.png" group-title="Doku  DE",Welt der Wunder DE
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/12305.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic People HD DE" tvg-logo="http://picon.space/natgeopeoplehd.png" group-title="Doku  DE",National Geographic People HD DE
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/16802.ts
+#EXTINF:-1 tvg-id="SPIEGEL Geschichte DE" tvg-name="SPIEGEL Geschichte FHD DE" tvg-logo="http://picon.space/spiegeltvwissenhd.png" group-title="Doku  DE",SPIEGEL Geschichte FHD DE
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/16573.ts
+#EXTINF:-1 tvg-id="ANIMAL PLANET DE" tvg-name="Animal Planet HD DE" tvg-logo="http://picon.space/animalplanethd.png" group-title="Doku  DE",Animal Planet HD DE
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/9561.ts
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Discovery Channel HD FR" tvg-name="Discovery Channel HD FR" tvg-logo="http://picon.space/discoverychannel.png" group-title="Doku FR",Discovery Channel HD FR
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/7579.ts
+#EXTINF:-1 tvg-id="Discovery Science HD FR" tvg-name="Discovery Science HD FR" tvg-logo="http://picon.space/discoveryscience.png" group-title="Doku FR",Discovery Science HD FR
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/7578.ts
+#EXTINF:-1 tvg-id="histoire FR" tvg-name="Histoire HD FR" tvg-logo="http://picon.space/histoire.png" group-title="Doku FR",Histoire HD FR
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/13166.ts
+#EXTINF:-1 tvg-id="NAT GEO WILD HD FR" tvg-name="National Geographic Wild HD FR" tvg-logo="http://picon.space/natgeowild.png" group-title="Doku FR",National Geographic Wild HD FR
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/3606.ts
+#EXTINF:-1 tvg-id="National Geographic FR" tvg-name="National Geographic FR" tvg-logo="http://picon.space/nationalgeo.png" group-title="Doku FR",National Geographic FR
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/4467.ts
+#EXTINF:-1 tvg-id="Planète+ Action & Experience FR" tvg-name="Planète+ Action & Expérience FR" tvg-logo="http://picon.space/planeteplusaande.png" group-title="Doku FR",Planète+ Action & Expérience FR
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/2248.ts
+#EXTINF:-1 tvg-id="Planète+ Action & Experience HD FR" tvg-name="Planète+ Action & Experience HD FR" tvg-logo="http://picon.space/planeteplusaande.png" group-title="Doku FR",Planète+ Action & Experience HD FR
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/13124.ts
+#EXTINF:-1 tvg-id="Planète+ Crime Investigation HD 1080P FR" tvg-name="Planète+ Crime Investigation FHD FR" tvg-logo="http://picon.space/planeteplusci.png" group-title="Doku FR",Planète+ Crime Investigation FHD FR
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/15639.ts
+#EXTINF:-1 tvg-id="Planète+ Crime Investigation HD FR" tvg-name="Planète+ Crime Investigation HD FR" tvg-logo="http://picon.space/planeteplusci.png" group-title="Doku FR",Planète+ Crime Investigation HD FR
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/2249.ts
+#EXTINF:-1 tvg-id="Planète+ HD FR" tvg-name="Planète+ FHD FR" tvg-logo="http://picon.space/planeteplushd.png" group-title="Doku FR",Planète+ FHD FR
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/2247.ts
+#EXTINF:-1 tvg-id="RMC DECOUVERTE FR" tvg-name="RMC Découverte HD FR" tvg-logo="http://picon.space/rmcdecouverte.png" group-title="Doku FR",RMC Découverte HD FR
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/13157.ts
+#EXTINF:-1 tvg-id="Science & Vie TV FR" tvg-name="Science & Vie TV FR" tvg-logo="http://picon.space/scienceetvie.png" group-title="Doku FR",Science & Vie TV FR
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/7799.ts
+#EXTINF:-1 tvg-id="Science & Vie TV HD FR" tvg-name="Science & Vie TV HD FR" tvg-logo="http://picon.space/scienceetvie.png" group-title="Doku FR",Science & Vie TV HD FR
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/13115.ts
+#EXTINF:-1 tvg-id="Toute l'Histoire FR" tvg-name="Toute l'histoire FR" tvg-logo="http://picon.space/toutelhistoire.png" group-title="Doku FR",Toute l'histoire FR
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/7798.ts
+#EXTINF:-1 tvg-id="Trek HD FR" tvg-name="Trek HD FR" tvg-logo="http://picon.space/trek.png" group-title="Doku FR",Trek HD FR
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/13185.ts
+#EXTINF:-1 tvg-id="Ushuaïa TV HD FR" tvg-name="Ushuaïa TV HD FR" tvg-logo="http://picon.space/ushuaiatv.png" group-title="Doku FR",Ushuaïa TV HD FR
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/4491.ts
+#EXTINF:-1 tvg-id="voyage FR" tvg-name="Voyage HD FR" tvg-logo="http://picon.space/voyage.png" group-title="Doku FR",Voyage HD FR
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/13167.ts
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Crime Investigation UK" tvg-name="Crime + Investigation UK" tvg-logo="http://picon.space/crimeplusinvestigation.png" group-title="Doku UK",Crime + Investigation UK
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/14943.ts
+#EXTINF:-1 tvg-id="DMAX +1 UK" tvg-name="DMAX +1 UK" tvg-logo="http://picon.space/dmaxplus1.png" group-title="Doku UK",DMAX +1 UK
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/14840.ts
+#EXTINF:-1 tvg-id="DMAX UK" tvg-name="DMAX UK" tvg-logo="http://picon.space/dmax.png" group-title="Doku UK",DMAX UK
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/1983.ts
+#EXTINF:-1 tvg-id="Disc Science +1 UK" tvg-name="Discovery Science +1 UK" tvg-logo="http://picon.space/discoveryscienceplus1.png" group-title="Doku UK",Discovery Science +1 UK
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/14842.ts
+#EXTINF:-1 tvg-id="Discovery +1 UK" tvg-name="Discovery +1 UK" tvg-logo="http://picon.space/discoveryplus1.png" group-title="Doku UK",Discovery +1 UK
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/14770.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD UK" tvg-logo="http://picon.space/discoverychannelhd.png" group-title="Doku UK",Discovery Channel HD UK
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/14863.ts
+#EXTINF:-1 tvg-id="Discovery Channel UK" tvg-name="Discovery Channel UK" tvg-logo="http://picon.space/discoverychannel.png" group-title="Doku UK",Discovery Channel UK
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/1986.ts
+#EXTINF:-1 tvg-id="Discovery History +1 UK" tvg-name="Discovery History +1 UK" tvg-logo="http://picon.space/discoveryhistoryplus1.png" group-title="Doku UK",Discovery History +1 UK
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/14843.ts
+#EXTINF:-1 tvg-id="Discovery History UK" tvg-name="Discovery History UK" tvg-logo="http://picon.space/discoveryhistory.png" group-title="Doku UK",Discovery History UK
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/1985.ts
+#EXTINF:-1 tvg-id="Discovery Home&Health UK" tvg-name="Discovery Home & Health UK" tvg-logo="http://picon.space/discoveryhomeandhealth.png" group-title="Doku UK",Discovery Home & Health UK
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/14833.ts
+#EXTINF:-1 tvg-id="Discovery Investigation UK" tvg-name="Investigation Discovery UK" tvg-logo="http://picon.space/investigationdiscovery.png" group-title="Doku UK",Investigation Discovery UK
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/3982.ts
+#EXTINF:-1 tvg-id="Discovery Ireland UK" tvg-name="Discovery Channel Ireland UK" tvg-logo="http://picon.space/discoverychannel.png" group-title="Doku UK",Discovery Channel Ireland UK
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/14769.ts
+#EXTINF:-1 tvg-id="Discovery Science UK" tvg-name="Discovery Science UK" tvg-logo="http://picon.space/discoveryscience.png" group-title="Doku UK",Discovery Science UK
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/2679.ts
+#EXTINF:-1 tvg-id="Discovery Shed UK" tvg-name="Discovery Shed UK" tvg-logo="http://picon.space/discoveryshed.png" group-title="Doku UK",Discovery Shed UK
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/14841.ts
+#EXTINF:-1 tvg-id="Discovery Turbo UK" tvg-name="Discovery Turbo UK" tvg-logo="http://picon.space/discoveryturbo.png" group-title="Doku UK",Discovery Turbo UK
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/3978.ts
+#EXTINF:-1 tvg-id="Discovery World UK" tvg-name="Discovery World UK" tvg-logo="http://picon.space/discoveryworld.png" group-title="Doku UK",Discovery World UK
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/2678.ts
+#EXTINF:-1 tvg-id="National Geographic Channel UK" tvg-name="National Geographic UK" tvg-logo="http://picon.space/nationalgeographic.png" group-title="Doku UK",National Geographic UK
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/3561.ts
+#EXTINF:-1 tvg-id="Nat Geo Wild UK" tvg-name="National Geographic Wild HD UK" tvg-logo="http://picon.space/natgeowildhd.png" group-title="Doku UK",National Geographic Wild HD UK
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/1968.ts
+#EXTINF:-1 tvg-id="Travel Channel +1 UK" tvg-name="Travel Channel +1 UK" tvg-logo="http://picon.space/travelchannelplus1.png" group-title="Doku UK",Travel Channel +1 UK
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/14784.ts
+#EXTINF:-1 tvg-id="Travel Channel UK" tvg-name="Travel Channel UK" tvg-logo="http://picon.space/travelchannel.png" group-title="Doku UK",Travel Channel UK
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/14818.ts
+#EXTINF:-1 tvg-id="Animal Planet +1 UK" tvg-name="Animal Planet +1 UK" tvg-logo="http://picon.space/animalplanet.png" group-title="Doku UK",Animal Planet +1 UK
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/14850.ts
+#EXTINF:-1 tvg-id="Animal Planet UK" tvg-name="Animal Planet HD UK" tvg-logo="http://picon.space/animalplanethd.png" group-title="Doku UK",Animal Planet HD UK
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/8010.ts
+#EXTINF:-1 tvg-id="Animal Planet UK" tvg-name="Animal Planet UK" tvg-logo="http://picon.space/animalplanet.png" group-title="Doku UK",Animal Planet UK
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/2683.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera Documentary QA" tvg-logo="http://picon.space/aljazeeradocumentaryarb.png" group-title="Doku  OSN",Aljazeera Documentary QA
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/10355.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Abu Dhabi AE" tvg-logo="http://picon.space/nationalgeographichd.png" group-title="Doku  OSN ",National Geographic Abu Dhabi AE
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/12892.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery Family Channel AE" tvg-logo="http://picon.space/discoveryfamilyarb.png" group-title="Doku  OSN",OSN Discovery Family Channel AE
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/5747.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Investigation Discovery Xtra HD AE" tvg-logo="http://picon.space/investigationdiscoveryhd.png" group-title="Doku  OSN",OSN Investigation Discovery Xtra HD AE
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/13722.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery Science HD AE" tvg-logo="http://picon.space/discoverysciencehd.png" group-title="Doku  OSN",OSN Discovery Science HD AE
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/12848.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN History Channel HD AE" tvg-logo="http://picon.space/historyhd.png" group-title="Doku  OSN",OSN History Channel HD AE
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/12842.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN National Geographic People HD AE" tvg-logo="http://picon.space/natgeopeoplehd.png" group-title="Doku  OSN",OSN National Geographic People HD AE
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/12828.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN National Geographic Wild HD AE" tvg-logo="http://picon.space/natgeowildhd.png" group-title="Doku  OSN",OSN National Geographic Wild HD AE
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/12829.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN National Geographic HD AE" tvg-logo="http://picon.space/nationalgeographichd.png" group-title="Doku  OSN",OSN National Geographic HD AE
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/13717.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Animal Planet AE" tvg-logo="http://picon.space/animalplanethd.png" group-title="Doku  OSN",OSN Animal Planet AE
+http://karamuiptv.com:8080/live/Romeo1/rEMfN0hypu/5751.ts
