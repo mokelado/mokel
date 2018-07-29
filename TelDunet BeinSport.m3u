@@ -1,0 +1,48 @@
+#EXTM3U
+
+
+
+
+
+#EXTINF:196,Bein Sports
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sports/bein_sports
+#EXTINF:198,Bein Max 1 HD
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_max_1_hd/bein_max_1_hd
+#EXTINF:200,Bein Max 2 HD
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_max_2_hd/bein_max_2_hd
+#EXTINF:202,Bein Max 3 HD
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_max_3_hd/bein_max_3_hd
+#EXTINF:204,Bein Sport 1 HD FR
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_1_hd_fr/bein_sport_1_hd_fr
+#EXTINF:206,Bein Sport 2 HD FR
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_2_hd_fr/bein_sport_2_hd_fr
+#EXTINF:208,Bein Sport 3 HD FR
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_3_hd_fr/bein_sport_3_hd_fr
+#EXTINF:210,Bein sport 1
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_1/bein_sport_1
+#EXTINF:212,Bein sport 2
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_2/bein_sport_2
+#EXTINF:214,Bein sport 3
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_3/bein_sport_3
+#EXTINF:216,Bein sport 4
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_4/bein_sport_4
+#EXTINF:218,Bein sport 5
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_5/bein_sport_5
+#EXTINF:220,Bein sport 6
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_6/bein_sport_6
+#EXTINF:222,Bein sport 7
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_7/bein_sport_7
+#EXTINF:224,Bein sport 8
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_8/bein_sport_8
+#EXTINF:226,Bein sport 9
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_9/bein_sport_9
+#EXTINF:228,Bein sport 10
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_10/bein_sport_10
+#EXTINF:230,Bein sport 11
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_11/bein_sport_11
+#EXTINF:232,Bein sport 12
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_12/bein_sport_12
+
+
+
+
