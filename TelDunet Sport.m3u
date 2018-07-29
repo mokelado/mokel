@@ -1,0 +1,229 @@
+#EXTM3U
+
+
+#EXTINF:196,Bein Sports
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sports/bein_sports
+#EXTINF:198,Bein Max 1 HD
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_max_1_hd/bein_max_1_hd
+#EXTINF:200,Bein Max 2 HD
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_max_2_hd/bein_max_2_hd
+#EXTINF:202,Bein Max 3 HD
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_max_3_hd/bein_max_3_hd
+#EXTINF:204,Bein Sport 1 HD FR
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_1_hd_fr/bein_sport_1_hd_fr
+#EXTINF:206,Bein Sport 2 HD FR
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_2_hd_fr/bein_sport_2_hd_fr
+#EXTINF:208,Bein Sport 3 HD FR
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_3_hd_fr/bein_sport_3_hd_fr
+#EXTINF:210,Bein sport 1
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_1/bein_sport_1
+#EXTINF:212,Bein sport 2
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_2/bein_sport_2
+#EXTINF:214,Bein sport 3
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_3/bein_sport_3
+#EXTINF:216,Bein sport 4
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_4/bein_sport_4
+#EXTINF:218,Bein sport 5
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_5/bein_sport_5
+#EXTINF:220,Bein sport 6
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_6/bein_sport_6
+#EXTINF:222,Bein sport 7
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_7/bein_sport_7
+#EXTINF:224,Bein sport 8
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_8/bein_sport_8
+#EXTINF:226,Bein sport 9
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_9/bein_sport_9
+#EXTINF:228,Bein sport 10
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_10/bein_sport_10
+#EXTINF:230,Bein sport 11
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_11/bein_sport_11
+#EXTINF:232,Bein sport 12
+rtmp://www.teledunet.net:1935/live?idu=mokelado_i6rguct0ts6dllm&channel=bein_sport_12/bein_sport_12
+
+
+
+
+
+
+#EXTINF:2166,FR:Beinsport 1
+http://www.teledunet.tv:8888/fr_beinsport_1.m3u8?world_list=366.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:2168,FR:Beinsport 2
+http://www.teledunet.tv:8888/fr_beinsport_2.m3u8?world_list=365.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:2170,FR:Beinsport 3
+http://www.teledunet.tv:8888/fr_beinsport_3.m3u8?world_list=364.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:2172,FR:Bein Sport Max 4
+http://www.teledunet.tv:8888/fr_bein_sport_max_4.m3u8?world_list=397.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:2174,FR:Bein Sport Max 5
+http://www.teledunet.tv:8888/fr_bein_sport_max_5.m3u8?world_list=398.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:2176,FR:Bein Sport Max 6
+http://www.teledunet.tv:8888/fr_bein_sport_max_6.m3u8?world_list=399.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:2178,FR:Bein Sport Max 7
+http://www.teledunet.tv:8888/fr_bein_sport_max_7.m3u8?world_list=400.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:2180,FR:Bein Sport Max 8
+http://www.teledunet.tv:8888/fr_bein_sport_max_8.m3u8?world_list=401.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:2182,FR:Bein Sport Max 9
+http://www.teledunet.tv:8888/fr_bein_sport_max_9.m3u8?world_list=402.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:2184,FR:Bein Sport Max 10
+http://www.teledunet.tv:8888/fr_bein_sport_max_10.m3u8?world_list=403.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:2186,FR:Eurosport 1 HD
+http://www.teledunet.tv:8888/fr_eurosport_1_hd.m3u8?world_list=356.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:2188,FR:Eurosport 2 HD
+http://www.teledunet.tv:8888/fr_eurosport_2_hd.m3u8?world_list=355.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:2190,FR:SFR Sport 1
+http://www.teledunet.tv:8888/fr_sfr_sport_1.m3u8?world_list=381.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:2192,FR:SFR Sport 2
+http://www.teledunet.tv:8888/fr_sfr_sport_2.m3u8?world_list=382.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:2194,FR:SFR Sport 3
+http://www.teledunet.tv:8888/fr_sfr_sport_3.m3u8?world_list=383.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:2196,FR:OL tv
+http://www.teledunet.tv:8888/fr_ol_tv.m3u8?world_list=373.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:2198,FR:Foot+ 24
+http://www.teledunet.tv:8888/fr_foot_24.m3u8?world_list=351.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:2200,FR:InfoSport+
+http://www.teledunet.tv:8888/fr_infosport.m3u8?world_list=353.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:2202,FR:Canal+ Sport
+http://www.teledunet.tv:8888/fr_canal_sport.m3u8?world_list=350.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:2204,FR:Ma Chaine Sport MCS HD
+http://www.teledunet.tv:8888/fr_ma_chaine_sport_mcs_hd.m3u8?world_list=352.m3u8&idu=mokelado_i6rguct0ts6dllm
+
+
+
+#EXTINF:944,UK:Sky Sports News
+http://www.teledunet.tv:8888/uk_sky_sports_news.m3u8?world_list=549.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:946,UK:Sky Sport 1 SD
+http://www.teledunet.tv:8888/uk_sky_sport_1_sd.m3u8?world_list=533.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:948,UK:Sky Sport 2 SD
+http://www.teledunet.tv:8888/uk_sky_sport_2_sd.m3u8?world_list=532.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:950,UK:Sky Sport 3 SD
+http://www.teledunet.tv:8888/uk_sky_sport_3_sd.m3u8?world_list=531.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:952,UK:Sky Sport 4 SD
+http://www.teledunet.tv:8888/uk_sky_sport_4_sd.m3u8?world_list=530.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:954,UK:Sky Sport 5 SD
+http://www.teledunet.tv:8888/uk_sky_sport_5_sd.m3u8?world_list=529.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:956,UK:Sky Sports 1 HD
+http://www.teledunet.tv:8888/uk_sky_sports_1_hd.m3u8?world_list=548.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:958,UK:Sky Sports 2 HD
+http://www.teledunet.tv:8888/uk_sky_sports_2_hd.m3u8?world_list=547.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:960,UK:Sky Sports 3 HD
+http://www.teledunet.tv:8888/uk_sky_sports_3_hd.m3u8?world_list=546.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:962,UK:Sky Sports 4 HD
+http://www.teledunet.tv:8888/uk_sky_sports_4_hd.m3u8?world_list=545.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:964,UK:Sky Sports 5 HD
+http://www.teledunet.tv:8888/uk_sky_sports_5_hd.m3u8?world_list=544.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:966,UK:Sky Sport Arena
+http://www.teledunet.tv:8888/uk_sky_sport_arena.m3u8?world_list=1558.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:968,UK:Sky Sport Football
+http://www.teledunet.tv:8888/uk_sky_sport_football.m3u8?world_list=1559.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:970,UK:Sky Sports Action
+http://www.teledunet.tv:8888/uk_sky_sports_action.m3u8?world_list=1560.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:972,UK:Sky motorsport.tv
+http://www.teledunet.tv:8888/uk_sky_motorsport_tv.m3u8?world_list=1555.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:974,UK:Sky Sports F1
+http://www.teledunet.tv:8888/uk_sky_sports_f1.m3u8?world_list=539.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:976,UK:Sky Sport AU 1
+http://www.teledunet.tv:8888/uk_sky_sport_au_1.m3u8?world_list=438.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:978,UK:Sky BT Sport 1
+http://www.teledunet.tv:8888/uk_sky_bt_sport_1.m3u8?world_list=543.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:980,UK:Sky BT Sport 2
+http://www.teledunet.tv:8888/uk_sky_bt_sport_2.m3u8?world_list=542.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:982,UK:Sky BT Sport 1 HD
+http://www.teledunet.tv:8888/uk_sky_bt_sport_1_hd.m3u8?world_list=528.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:984,UK:Sky BT Sport 2 HD
+http://www.teledunet.tv:8888/uk_sky_bt_sport_2_hd.m3u8?world_list=527.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:986,UK:Sky BT Sport 3 HD
+http://www.teledunet.tv:8888/uk_sky_bt_sport_3_hd.m3u8?world_list=453.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:988,UK:Sky BT Sport Extra
+http://www.teledunet.tv:8888/uk_sky_bt_sport_extra.m3u8?world_list=479.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:990,UK:Sky Eurosport 1 HD
+http://www.teledunet.tv:8888/uk_sky_eurosport_1_hd.m3u8?world_list=541.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:992,UK:Sky Eurosport 2 HD
+http://www.teledunet.tv:8888/uk_sky_eurosport_2_hd.m3u8?world_list=540.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:994,UK:Sky Eir Sport 1
+http://www.teledunet.tv:8888/uk_sky_eir_sport_1.m3u8?world_list=1566.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:996,UK:Sky Eir Sport 2
+http://www.teledunet.tv:8888/uk_sky_eir_sport_2.m3u8?world_list=1567.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:998,UK:Sky Sports Cricket
+http://www.teledunet.tv:8888/uk_sky_sports_cricket.m3u8?world_list=1564.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:1000,UK:Sky Sports Golf HD
+http://www.teledunet.tv:8888/uk_sky_sports_golf_hd.m3u8?world_list=1563.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:1002,UK:Sky Sports Main Event
+http://www.teledunet.tv:8888/uk_sky_sports_main_event.m3u8?world_list=1561.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:1004,UK:Sky Sports Premier
+http://www.teledunet.tv:8888/uk_sky_sports_premier.m3u8?world_list=1565.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:1006,UK:Sky Sports Premier League
+http://www.teledunet.tv:8888/uk_sky_sports_premier_league.m3u8?world_list=1562.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:1008,UK:Sky Sports MixHD
+http://www.teledunet.tv:8888/uk_sky_sports_mixhd.m3u8?world_list=513.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:1010,UK:Sky Setanta Sports
+http://www.teledunet.tv:8888/uk_sky_setanta_sports.m3u8?world_list=484.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:1012,UK:Sky Liverpool FC TV HD
+http://www.teledunet.tv:8888/uk_sky_liverpool_fc_tv_hd.m3u8?world_list=536.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:1014,UK:Sky Chelsea TV HD
+http://www.teledunet.tv:8888/uk_sky_chelsea_tv_hd.m3u8?world_list=537.m3u8&idu=mokelado_i6rguct0ts6dllm
+
+
+
+#EXTINF:3078,DE:Sky Sport News
+http://www.teledunet.tv:8888/de_sky_sport_news.m3u8?world_list=759.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:3080,DE:Sky Sport +1
+http://www.teledunet.tv:8888/de_sky_sport_1.m3u8?world_list=761.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:3082,DE:Sky Sport 1 HD
+http://www.teledunet.tv:8888/de_sky_sport_1_hd.m3u8?world_list=829.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:3084,DE:Sky Sport 2 HD
+http://www.teledunet.tv:8888/de_sky_sport_2_hd.m3u8?world_list=826.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:3086,DE:Sky Sport 1
+http://www.teledunet.tv:8888/de_sky_sport_1.m3u8?world_list=827.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:3088,DE:Sky Sport 2
+http://www.teledunet.tv:8888/de_sky_sport_2.m3u8?world_list=828.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:3090,DE:Sky Eurosport
+http://www.teledunet.tv:8888/de_sky_eurosport.m3u8?world_list=809.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:3092,DE:Sky Sport Austria
+http://www.teledunet.tv:8888/de_sky_sport_austria.m3u8?world_list=807.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:3094,DE:Sky Bundesliga HD 1
+http://www.teledunet.tv:8888/de_sky_bundesliga_hd_1.m3u8?world_list=810.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:3096,DE:Sky Bundesliga 2
+http://www.teledunet.tv:8888/de_sky_bundesliga_2.m3u8?world_list=831.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:3098,DE:Sky Bundesliga 3
+http://www.teledunet.tv:8888/de_sky_bundesliga_3.m3u8?world_list=832.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:3100,DE:Sky Bundesliga 4
+http://www.teledunet.tv:8888/de_sky_bundesliga_4.m3u8?world_list=833.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:3102,DE:Sky Bundesliga 5
+http://www.teledunet.tv:8888/de_sky_bundesliga_5.m3u8?world_list=834.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:3104,DE:Sky Bundesliga 6
+http://www.teledunet.tv:8888/de_sky_bundesliga_6.m3u8?world_list=835.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:3106,DE:Sky Bundesliga 7
+http://www.teledunet.tv:8888/de_sky_bundesliga_7.m3u8?world_list=836.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:3108,DE:Sky Bundesliga 8
+http://www.teledunet.tv:8888/de_sky_bundesliga_8.m3u8?world_list=837.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:3110,DE:Sky Bundesliga 9
+http://www.teledunet.tv:8888/de_sky_bundesliga_9.m3u8?world_list=838.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:3112,DE:Sky Sport 3 Only at Games
+http://www.teledunet.tv:8888/de_sky_sport_3_only_at_games.m3u8?world_list=839.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:3114,DE:Sky Sport 4 Only at Games
+http://www.teledunet.tv:8888/de_sky_sport_4_only_at_games.m3u8?world_list=840.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:3116,DE:Sky Sport 5 Only at Games
+http://www.teledunet.tv:8888/de_sky_sport_5_only_at_games.m3u8?world_list=841.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:3118,DE:Sky Sport 6 Only at Games
+http://www.teledunet.tv:8888/de_sky_sport_6_only_at_games.m3u8?world_list=842.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:3120,DE:Sky Sport 7 Only at Games
+http://www.teledunet.tv:8888/de_sky_sport_7_only_at_games.m3u8?world_list=843.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:3122,DE:Sky Sport 8 Only at Games
+http://www.teledunet.tv:8888/de_sky_sport_8_only_at_games.m3u8?world_list=844.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:3124,DE:Sky Sport 9 Only at Games
+http://www.teledunet.tv:8888/de_sky_sport_9_only_at_games.m3u8?world_list=845.m3u8&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:3126,DE:Sky Sport 10 Only at Games
+http://www.teledunet.tv:8888/de_sky_sport_10_only_at_games.m3u8?world_list=830.m3u8&idu=mokelado_i6rguct0ts6dllm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
