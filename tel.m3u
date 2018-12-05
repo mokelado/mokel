@@ -1,0 +1,619 @@
+#EXTM3U
+#EXTINF:2,Teledunet Tv
+http://www.teledunet.tv:8888/teledunet_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:4,Al mayaden
+http://www.teledunet.tv:8888/al_mayaden.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:6,Al manar
+http://www.teledunet.tv:8888/al_manar.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:8,Lebanon Tv
+http://www.teledunet.tv:8888/lebanon_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:10,LBC
+http://www.teledunet.tv:8888/lbc.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:12,NBN
+http://www.teledunet.tv:8888/nbn.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:14,Future
+http://www.teledunet.tv:8888/future.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:16,Aljadeed
+http://www.teledunet.tv:8888/aljadeed.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:18,MTV
+http://www.teledunet.tv:8888/mtv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:20,LDC
+http://www.teledunet.tv:8888/ldc.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:22,Arabica Tv
+http://www.teledunet.tv:8888/arabica_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:24,Hawacom
+http://www.teledunet.tv:8888/hawacom.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:26,OTV Lebanon
+http://www.teledunet.tv:8888/otv_lebanon.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:28,Aliman Tv
+http://www.teledunet.tv:8888/aliman_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:30,Noursat
+http://www.teledunet.tv:8888/noursat.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:32,Noursat Alchabab
+http://www.teledunet.tv:8888/noursat_alchabab.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:34,LLBN
+http://www.teledunet.tv:8888/llbn.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:36,Heya TV
+http://www.teledunet.tv:8888/heya_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:38,Syria
+http://www.teledunet.tv:8888/syria.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:40,Syria Drama
+http://www.teledunet.tv:8888/syria_drama.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:42,Nour Sham
+http://www.teledunet.tv:8888/nour_sham.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:44,Sama Tv
+http://www.teledunet.tv:8888/sama_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:46,Carthage Tv
+http://www.teledunet.tv:8888/carthage_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:48,Tunisia national 1
+http://www.teledunet.tv:8888/tunisia_national_1.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:50,Tunisia national 2
+http://www.teledunet.tv:8888/tunisia_national_2.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:52,Nessma
+http://www.teledunet.tv:8888/nessma.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:54,Al Tunisia
+http://www.teledunet.tv:8888/al_tunisia.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:56,Hanibal
+http://www.teledunet.tv:8888/hanibal.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:58,Attassia Tv
+http://www.teledunet.tv:8888/attassia_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:60,Al Moustakilla
+http://www.teledunet.tv:8888/al_moustakilla.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:62,Al janoubiya
+http://www.teledunet.tv:8888/al_janoubiya.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:64,Tounesna
+http://www.teledunet.tv:8888/tounesna.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:66,M Tunisia
+http://www.teledunet.tv:8888/m_tunisia.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:68,Zaytoona
+http://www.teledunet.tv:8888/zaytoona.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:70,Palestine
+http://www.teledunet.tv:8888/palestine.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:72,Al falstiniah
+http://www.teledunet.tv:8888/al_falstiniah.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:74,Alqudis
+http://www.teledunet.tv:8888/alqudis.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:76,Aljazeera
+http://www.teledunet.tv:8888/aljazeera.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:78,Aljazeera Doc
+http://www.teledunet.tv:8888/aljazeera_doc.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:80,Aljazeera Mubasher
+http://www.teledunet.tv:8888/aljazeera_mubasher.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:82,Alarabiya
+http://www.teledunet.tv:8888/alarabiya.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:84,Al Araby
+http://www.teledunet.tv:8888/al_araby.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:86,CNN
+http://www.teledunet.tv:8888/cnn.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:88,Sky News Ar
+http://www.teledunet.tv:8888/sky_news_ar.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:90,Al Arabia Hadath
+http://www.teledunet.tv:8888/al_arabia_hadath.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:92,France24 Arabic
+http://www.teledunet.tv:8888/france24_arabic.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:94,BBC arabic
+http://www.teledunet.tv:8888/bbc_arabic.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:96,Russia Alyaum
+http://www.teledunet.tv:8888/russia_alyaum.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:98,Aghapy Tv
+http://www.teledunet.tv:8888/aghapy_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:100,Art Aflam 1
+http://www.teledunet.tv:8888/art_aflam_1.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:102,Art Aflam 2
+http://www.teledunet.tv:8888/art_aflam_2.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:104,Art Cinema
+http://www.teledunet.tv:8888/art_cinema.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:106,Art Hekayat
+http://www.teledunet.tv:8888/art_hekayat.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:108,Majd Kids
+http://www.teledunet.tv:8888/majd_kids.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:110,Toyor Baby
+http://www.teledunet.tv:8888/toyor_baby.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:112,Toyor Al Janah
+http://www.teledunet.tv:8888/toyor_al_janah.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:114,Spacetoon
+http://www.teledunet.tv:8888/spacetoon.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:116,Taha Tv
+http://www.teledunet.tv:8888/taha_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:118,Karameesh
+http://www.teledunet.tv:8888/karameesh.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:120,Cartoon Network
+http://www.teledunet.tv:8888/cartoon_network.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:122,Ajyal
+http://www.teledunet.tv:8888/ajyal.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:124,MBC 1
+http://www.teledunet.tv:8888/mbc_1.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:126,MBC 2
+http://www.teledunet.tv:8888/mbc_2.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:128,MBC 3
+http://www.teledunet.tv:8888/mbc_3.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:130,MBC 4
+http://www.teledunet.tv:8888/mbc_4.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:132,MBC Action
+http://www.teledunet.tv:8888/mbc_action.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:134,MBC Bollywood
+http://www.teledunet.tv:8888/mbc_bollywood.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:136,MBC Drama
+http://www.teledunet.tv:8888/mbc_drama.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:138,MBC Masr
+http://www.teledunet.tv:8888/mbc_masr.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:140,MBC Masr 2
+http://www.teledunet.tv:8888/mbc_masr_2.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:142,MBC Max
+http://www.teledunet.tv:8888/mbc_max.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:144,Rotana cinema
+http://www.teledunet.tv:8888/rotana_cinema.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:146,Rotana Classic
+http://www.teledunet.tv:8888/rotana_classic.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:148,Rotana Aflam
+http://www.teledunet.tv:8888/rotana_aflam.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:150,Rotana Masriya
+http://www.teledunet.tv:8888/rotana_masriya.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:152,Rotana Music
+http://www.teledunet.tv:8888/rotana_music.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:154,Rotana Clip
+http://www.teledunet.tv:8888/rotana_clip.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:156,Rotana Khaligi
+http://www.teledunet.tv:8888/rotana_khaligi.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:158,Wanasah
+http://www.teledunet.tv:8888/wanasah.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:160,Zee Aflam
+http://www.teledunet.tv:8888/zee_aflam.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:162,Zee Alwan
+http://www.teledunet.tv:8888/zee_alwan.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:164,B4U Aflam
+http://www.teledunet.tv:8888/b4u_aflam.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:166,TF1
+http://www.teledunet.tv:8888/tf1.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:168,M6
+http://www.teledunet.tv:8888/m6.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:170,France 2
+http://www.teledunet.tv:8888/france_2.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:172,France 3
+http://www.teledunet.tv:8888/france_3.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:174,France 4
+http://www.teledunet.tv:8888/france_4.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:176,France 5
+http://www.teledunet.tv:8888/france_5.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:178,France O
+http://www.teledunet.tv:8888/france_o.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:180,Gulli
+http://www.teledunet.tv:8888/gulli.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:182,W9
+http://www.teledunet.tv:8888/w9.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:184,ARTE
+http://www.teledunet.tv:8888/arte.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:186,Canal Plus Cinema
+http://www.teledunet.tv:8888/canal_plus_cinema.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:188,Canal Plus Emotion
+http://www.teledunet.tv:8888/canal_plus_emotion.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:190,Canal Plus Sport
+http://www.teledunet.tv:8888/canal_plus_sport.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:192,Canal Plus
+http://www.teledunet.tv:8888/canal_plus.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:194,ZDF
+http://www.teledunet.tv:8888/zdf.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:196,Bein Sports
+http://www.teledunet.tv:8888/bein_sports.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:198,Bein Max 1 HD
+http://www.teledunet.tv:8888/bein_max_1_hd.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:200,Bein Max 2 HD
+http://www.teledunet.tv:8888/bein_max_2_hd.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:202,Bein Max 3 HD
+http://www.teledunet.tv:8888/bein_max_3_hd.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:204,Bein Sport 1 HD FR
+http://www.teledunet.tv:8888/bein_sport_1_hd_fr.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:206,Bein Sport 2 HD FR
+http://www.teledunet.tv:8888/bein_sport_2_hd_fr.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:208,Bein Sport 3 HD FR
+http://www.teledunet.tv:8888/bein_sport_3_hd_fr.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:210,Bein sport 1
+http://www.teledunet.tv:8888/bein_sport_1.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:212,Bein sport 2
+http://www.teledunet.tv:8888/bein_sport_2.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:214,Bein sport 3
+http://www.teledunet.tv:8888/bein_sport_3.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:216,Bein sport 4
+http://www.teledunet.tv:8888/bein_sport_4.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:218,Bein sport 5
+http://www.teledunet.tv:8888/bein_sport_5.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:220,Bein sport 6
+http://www.teledunet.tv:8888/bein_sport_6.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:222,Bein sport 7
+http://www.teledunet.tv:8888/bein_sport_7.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:224,Bein sport 8
+http://www.teledunet.tv:8888/bein_sport_8.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:226,Bein sport 9
+http://www.teledunet.tv:8888/bein_sport_9.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:228,Bein sport 10
+http://www.teledunet.tv:8888/bein_sport_10.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:230,Bein sport 11
+http://www.teledunet.tv:8888/bein_sport_11.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:232,Bein sport 12
+http://www.teledunet.tv:8888/bein_sport_12.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:234,Bein Movies 1
+http://www.teledunet.tv:8888/bein_movies_1.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:236,Bein Movies 2
+http://www.teledunet.tv:8888/bein_movies_2.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:238,Bein Movies 3
+http://www.teledunet.tv:8888/bein_movies_3.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:240,Bein Movies 4
+http://www.teledunet.tv:8888/bein_movies_4.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:242,Sudan Tv
+http://www.teledunet.tv:8888/sudan_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:244,Blue nile
+http://www.teledunet.tv:8888/blue_nile.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:246,Abu Dhabi
+http://www.teledunet.tv:8888/abu_dhabi.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:248,Abu Dhabi Drama
+http://www.teledunet.tv:8888/abu_dhabi_drama.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:250,Abu Dhabi Emarat
+http://www.teledunet.tv:8888/abu_dhabi_emarat.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:252,Abu Dhabi Sports 1
+http://www.teledunet.tv:8888/abu_dhabi_sports_1.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:254,Abu Dhabi Sports 2
+http://www.teledunet.tv:8888/abu_dhabi_sports_2.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:256,Dubai Sport 1
+http://www.teledunet.tv:8888/dubai_sport_1.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:258,Nat Geo Ad
+http://www.teledunet.tv:8888/nat_geo_ad.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:260,Dubai
+http://www.teledunet.tv:8888/dubai.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:262,Sama Dubai
+http://www.teledunet.tv:8888/sama_dubai.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:264,Dubai One
+http://www.teledunet.tv:8888/dubai_one.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:266,Noor Dubai
+http://www.teledunet.tv:8888/noor_dubai.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:268,Quest Arabiya
+http://www.teledunet.tv:8888/quest_arabiya.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:270,Roya
+http://www.teledunet.tv:8888/roya.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:272,Jordan
+http://www.teledunet.tv:8888/jordan.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:274,Qatar
+http://www.teledunet.tv:8888/qatar.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:276,Safa Tv
+http://www.teledunet.tv:8888/safa_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:278,Baghdad
+http://www.teledunet.tv:8888/baghdad.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:280,Al Ahd
+http://www.teledunet.tv:8888/al_ahd.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:282,Al Iraqiya
+http://www.teledunet.tv:8888/al_iraqiya.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:284,Al ghadeer
+http://www.teledunet.tv:8888/al_ghadeer.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:286,Afaq Tv
+http://www.teledunet.tv:8888/afaq_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:288,Alanwar
+http://www.teledunet.tv:8888/alanwar.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:290,Iraqia sport
+http://www.teledunet.tv:8888/iraqia_sport.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:292,Al Mawsleya
+http://www.teledunet.tv:8888/al_mawsleya.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:294,Dijlah Tv
+http://www.teledunet.tv:8888/dijlah_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:296,Al Anbar
+http://www.teledunet.tv:8888/al_anbar.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:298,Al Sharqiya
+http://www.teledunet.tv:8888/al_sharqiya.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:300,Al hurra Iraq
+http://www.teledunet.tv:8888/al_hurra_iraq.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:302,Al Rafidain
+http://www.teledunet.tv:8888/al_rafidain.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:304,Al Sumaria
+http://www.teledunet.tv:8888/al_sumaria.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:306,Al Diyar
+http://www.teledunet.tv:8888/al_diyar.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:308,Al rasheed
+http://www.teledunet.tv:8888/al_rasheed.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:310,Karbala Tv
+http://www.teledunet.tv:8888/karbala_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:312,Al Rahma
+http://www.teledunet.tv:8888/al_rahma.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:314,Huda Tv
+http://www.teledunet.tv:8888/huda_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:316,Melody Classic
+http://www.teledunet.tv:8888/melody_classic.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:318,El Sharq
+http://www.teledunet.tv:8888/el_sharq.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:320,On TV
+http://www.teledunet.tv:8888/on_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:322,On E
+http://www.teledunet.tv:8888/on_e.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:324,On Drama
+http://www.teledunet.tv:8888/on_drama.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:326,On Sport
+http://www.teledunet.tv:8888/on_sport.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:328,DMC
+http://www.teledunet.tv:8888/dmc.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:330,DMC Drama
+http://www.teledunet.tv:8888/dmc_drama.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:332,DMC Sport
+http://www.teledunet.tv:8888/dmc_sport.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:334,Nile Tv
+http://www.teledunet.tv:8888/nile_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:336,Cairo Cinema
+http://www.teledunet.tv:8888/cairo_cinema.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:338,Cairo Drama
+http://www.teledunet.tv:8888/cairo_drama.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:340,Dream 1
+http://www.teledunet.tv:8888/dream_1.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:342,Coptic Tv
+http://www.teledunet.tv:8888/coptic_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:344,Moga Comedy
+http://www.teledunet.tv:8888/moga_comedy.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:346,Ten
+http://www.teledunet.tv:8888/ten.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:348,CBC
+http://www.teledunet.tv:8888/cbc.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:350,CBC Drama
+http://www.teledunet.tv:8888/cbc_drama.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:352,CBC Sofra
+http://www.teledunet.tv:8888/cbc_sofra.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:354,Al Mehwar
+http://www.teledunet.tv:8888/al_mehwar.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:356,Al oula
+http://www.teledunet.tv:8888/al_oula.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:358,Al Thaniya
+http://www.teledunet.tv:8888/al_thaniya.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:360,Al nahar
+http://www.teledunet.tv:8888/al_nahar.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:362,Al Nahar Drama
+http://www.teledunet.tv:8888/al_nahdrama.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:364,Sada Al Balad
+http://www.teledunet.tv:8888/sada_al_balad.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:366,Al Ahly Tv
+http://www.teledunet.tv:8888/al_ahly_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:368,Nile Comedy
+http://www.teledunet.tv:8888/nile_comedy.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:370,Nile Sport
+http://www.teledunet.tv:8888/nile_sport.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:372,Nile Drama
+http://www.teledunet.tv:8888/nile_drama.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:374,Nile News
+http://www.teledunet.tv:8888/nile_news.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:376,Nile Cinema
+http://www.teledunet.tv:8888/nile_cinema.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:378,Cima
+http://www.teledunet.tv:8888/cima.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:380,Toktok Aflam
+http://www.teledunet.tv:8888/toktok_aflam.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:382,Al Masriyah
+http://www.teledunet.tv:8888/al_masriyah.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:384,Al Kahera Wal Nas
+http://www.teledunet.tv:8888/al_kahera_wal_nas.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:386,ALHayat Musalsalat
+http://www.teledunet.tv:8888/alhayat_musalsalat.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:388,ALHayat
+http://www.teledunet.tv:8888/alhayat.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:390,Panorama Food
+http://www.teledunet.tv:8888/panorama_food.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:392,Panorama Drama
+http://www.teledunet.tv:8888/panorama_drama.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:394,Panorama Drama 2
+http://www.teledunet.tv:8888/panorama_drama_2.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:396,Me Sat
+http://www.teledunet.tv:8888/me_sat.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:398,Al Aoula Maroc
+http://www.teledunet.tv:8888/al_aoula_maroc.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:400,2M
+http://www.teledunet.tv:8888/2m.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:402,Alriadia Sport
+http://www.teledunet.tv:8888/alriadia_sport.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:404,Medi 1 Sat
+http://www.teledunet.tv:8888/medi_1_sat.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:406,Al Maghribia
+http://www.teledunet.tv:8888/al_maghribia.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:408,Arrabia
+http://www.teledunet.tv:8888/arrabia.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:410,Assadissa
+http://www.teledunet.tv:8888/assadissa.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:412,Tamazight
+http://www.teledunet.tv:8888/tamazight.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:414,AlGeria
+http://www.teledunet.tv:8888/algeria.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:416,Algeria 3
+http://www.teledunet.tv:8888/algeria_3.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:418,Ennahar Tv
+http://www.teledunet.tv:8888/ennahtv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:420,Samira Tv
+http://www.teledunet.tv:8888/samira_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:422,EL DJAZAIRIA
+http://www.teledunet.tv:8888/el_djazairia.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:424,El Heddaf TV
+http://www.teledunet.tv:8888/el_heddaf_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:426,Echorouk Tv
+http://www.teledunet.tv:8888/echorouk_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:428,Bahia Tv
+http://www.teledunet.tv:8888/bahia_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:430,El Fadjr
+http://www.teledunet.tv:8888/el_fadjr.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:432,El Bilad
+http://www.teledunet.tv:8888/el_bilad.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:434,Echorouk Benna Tv
+http://www.teledunet.tv:8888/echorouk_benna_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:436,Echorouk News
+http://www.teledunet.tv:8888/echorouk_news.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:438,Dzair Tv
+http://www.teledunet.tv:8888/dzair_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:440,Tamazight Algeria
+http://www.teledunet.tv:8888/tamazight_algeria.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:442,Coran
+http://www.teledunet.tv:8888/coran.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:444,Libya Tv
+http://www.teledunet.tv:8888/libya_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:446,Libya Al Ahrar
+http://www.teledunet.tv:8888/libya_al_ahrar.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:448,Tchad
+http://www.teledunet.tv:8888/tchad.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:450,Oromia Tv
+http://www.teledunet.tv:8888/oromia_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:452,Eriteria Tv
+http://www.teledunet.tv:8888/eriteria_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:454,Horn Cable Tv
+http://www.teledunet.tv:8888/horn_cable_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:456,ESTV
+http://www.teledunet.tv:8888/estv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:458,Kalsan Tv
+http://www.teledunet.tv:8888/kalsan_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:460,SNTV
+http://www.teledunet.tv:8888/sntv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:462,Somali Land
+http://www.teledunet.tv:8888/somali_land.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:464,Somali cable Tv
+http://www.teledunet.tv:8888/somali_cable_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:466,Universal Somali Tv
+http://www.teledunet.tv:8888/universal_somali_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:468,Yemen
+http://www.teledunet.tv:8888/yemen.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:470,Aden
+http://www.teledunet.tv:8888/aden.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:472,Sheba TV
+http://www.teledunet.tv:8888/sheba_tv.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:474,KSA 1
+http://www.teledunet.tv:8888/ksa_1.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:476,KSA 2
+http://www.teledunet.tv:8888/ksa_2.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:478,Al Quran Al Karim
+http://www.teledunet.tv:8888/al_quran_al_karim.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:480,Al Resalah
+http://www.teledunet.tv:8888/al_resalah.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:482,Iqra
+http://www.teledunet.tv:8888/iqra.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:484,Al Ekhbaria
+http://www.teledunet.tv:8888/al_ekhbaria.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:486,Oman
+http://www.teledunet.tv:8888/oman.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:488,Kuwait
+http://www.teledunet.tv:8888/kuwait.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:490,Funoon
+http://www.teledunet.tv:8888/funoon.m3u8?idu=mokelado_i6rguct0ts6dllm
+#EXTINF:492,Kurd Gali
+http://www.teledunet.tv:8888/kurd_gali.m3u8?world_list=2344.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:494,Kurd Cihan tv
+http://www.teledunet.tv:8888/kurd_cihan_tv.m3u8?world_list=2348.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:496,Kurd Hawler
+http://www.teledunet.tv:8888/kurd_hawler.m3u8?world_list=2349.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:498,Kurd KNN
+http://www.teledunet.tv:8888/kurd_knn.m3u8?world_list=2438.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:500,Kurd Cihan HD
+http://www.teledunet.tv:8888/kurd_cihan_hd.m3u8?world_list=2291.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:502,Kurd Komala TV
+http://www.teledunet.tv:8888/kurd_komala_tv.m3u8?world_list=2345.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:504,Kurd Med Muzîk Tv
+http://www.teledunet.tv:8888/kurd_med_muz_tv.m3u8?world_list=2346.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:506,Kurd MegaMax TV
+http://www.teledunet.tv:8888/kurd_megamax_tv.m3u8?world_list=2347.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:508,Kurd NRT TV
+http://www.teledunet.tv:8888/kurd_nrt_tv.m3u8?world_list=2353.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:510,Kurd NRT2 TV
+http://www.teledunet.tv:8888/kurd_nrt2_tv.m3u8?world_list=2354.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:512,Kurd Sat News TV
+http://www.teledunet.tv:8888/kurd_sat_news_tv.m3u8?world_list=2351.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:514,Kurd Speda TV
+http://www.teledunet.tv:8888/kurd_speda_tv.m3u8?world_list=2350.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:516,Kurd Sterk TV
+http://www.teledunet.tv:8888/kurd_sterk_tv.m3u8?world_list=2355.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:518,Kurd Zagros TV
+http://www.teledunet.tv:8888/kurd_zagros_tv.m3u8?world_list=2352.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:520,Osn Cinema 1
+http://www.teledunet.tv:8888/osn_cinema_1.m3u8?world_list=2384.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:522,Osn Cinema 2
+http://www.teledunet.tv:8888/osn_cinema_2.m3u8?world_list=2385.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:524,Osn Safwa
+http://www.teledunet.tv:8888/osn_safwa.m3u8?world_list=2399.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:526,Osn Music Shaby
+http://www.teledunet.tv:8888/osn_music_shaby.m3u8?world_list=2390.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:528,Osn Yahla cinema
+http://www.teledunet.tv:8888/osn_yahla_cinema.m3u8?world_list=2391.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:530,Osn Yahla
+http://www.teledunet.tv:8888/osn_yahla.m3u8?world_list=2420.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:532,Osn Mousalsalat
+http://www.teledunet.tv:8888/osn_mousalsalat.m3u8?world_list=2398.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:534,Osn Mousalsalat 2
+http://www.teledunet.tv:8888/osn_mousalsalat_2.m3u8?world_list=2400.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:536,Osn SeeVii Drama HD
+http://www.teledunet.tv:8888/osn_seevii_drama_hd.m3u8?world_list=2366.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:538,Osn SeeVii Beelink HD
+http://www.teledunet.tv:8888/osn_seevii_beelink_hd.m3u8?world_list=2368.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:540,Osn SeeVii Al Aoula HD
+http://www.teledunet.tv:8888/osn_seevii_al_aoula_hd.m3u8?world_list=2365.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:542,Osn Movies HD
+http://www.teledunet.tv:8888/osn_movies_hd.m3u8?world_list=2374.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:544,Osn Movies+2
+http://www.teledunet.tv:8888/osn_movies_2.m3u8?world_list=2377.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:546,Osn Movies Action HD
+http://www.teledunet.tv:8888/osn_movies_action_hd.m3u8?world_list=2375.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:548,Osn Movies Action 2 HD
+http://www.teledunet.tv:8888/osn_movies_action_2_hd.m3u8?world_list=2376.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:550,Osn Movies Premier 2
+http://www.teledunet.tv:8888/osn_movies_premier_2.m3u8?world_list=2378.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:552,Osn Movies Comdy HD
+http://www.teledunet.tv:8888/osn_movies_comdy_hd.m3u8?world_list=2372.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:554,Osn Movies Drama
+http://www.teledunet.tv:8888/osn_movies_drama.m3u8?world_list=2426.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:556,Osn Movies Festival
+http://www.teledunet.tv:8888/osn_movies_festival.m3u8?world_list=2424.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:558,Osn Movies Premier HD
+http://www.teledunet.tv:8888/osn_movies_premier_hd.m3u8?world_list=2405.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:560,Osn Movies Hollywood
+http://www.teledunet.tv:8888/osn_movies_hollywood.m3u8?world_list=2370.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:562,Osn Movies Hollywood 2
+http://www.teledunet.tv:8888/osn_movies_hollywood_2.m3u8?world_list=2371.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:564,Osn Movies Kids
+http://www.teledunet.tv:8888/osn_movies_kids.m3u8?world_list=2379.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:566,Osn Movies disney
+http://www.teledunet.tv:8888/osn_movies_disney.m3u8?world_list=2380.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:568,Osn Box office 1
+http://www.teledunet.tv:8888/osn_box_office_1.m3u8?world_list=2419.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:570,Osn Box office 2
+http://www.teledunet.tv:8888/osn_box_office_2.m3u8?world_list=2418.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:572,Osn Box office 3
+http://www.teledunet.tv:8888/osn_box_office_3.m3u8?world_list=2417.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:574,Osn Discovry
+http://www.teledunet.tv:8888/osn_discovry.m3u8?world_list=2430.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:576,Osn Nat Geo Wild HD
+http://www.teledunet.tv:8888/osn_nat_geo_wild_hd.m3u8?world_list=2357.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:578,Osn Animal Planet
+http://www.teledunet.tv:8888/osn_animal_planet.m3u8?world_list=2383.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:580,Osn History HD
+http://www.teledunet.tv:8888/osn_history_hd.m3u8?world_list=2360.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:582,Osn Nickelodeon HD
+http://www.teledunet.tv:8888/osn_nickelodeon_hd.m3u8?world_list=2406.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:584,Osn Nickelodeon JR
+http://www.teledunet.tv:8888/osn_nickelodeon_jr.m3u8?world_list=2389.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:586,Osn Disney XD
+http://www.teledunet.tv:8888/osn_disney_xd.m3u8?world_list=2363.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:588,Osn Groummet
+http://www.teledunet.tv:8888/osn_groummet.m3u8?world_list=2421.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:590,Osn Fann
+http://www.teledunet.tv:8888/osn_fann.m3u8?world_list=2386.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:592,Osn E HD
+http://www.teledunet.tv:8888/osn_e_hd.m3u8?world_list=2381.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:594,Osn FX HD
+http://www.teledunet.tv:8888/osn_fx_hd.m3u8?world_list=2422.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:596,Osn First HD
+http://www.teledunet.tv:8888/osn_first_hd.m3u8?world_list=2423.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:598,Osn First Comdy HD
+http://www.teledunet.tv:8888/osn_first_comdy_hd.m3u8?world_list=2382.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:600,Osn Fox Family Movies
+http://www.teledunet.tv:8888/osn_fox_family_movies.m3u8?world_list=2425.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:602,Osn Fox Action Movies HD
+http://www.teledunet.tv:8888/osn_fox_action_movies_hd.m3u8?world_list=2364.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:604,Osn Fox Movies HD
+http://www.teledunet.tv:8888/osn_fox_movies_hd.m3u8?world_list=2401.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:606,Osn Fox HD
+http://www.teledunet.tv:8888/osn_fox_hd.m3u8?world_list=2402.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:608,Osn Dream Works
+http://www.teledunet.tv:8888/osn_dream_works.m3u8?world_list=2403.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:610,Osn Outdoor
+http://www.teledunet.tv:8888/osn_outdoor.m3u8?world_list=2404.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:612,Osn TLC HD
+http://www.teledunet.tv:8888/osn_tlc_hd.m3u8?world_list=2393.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:614,Osn SYFY
+http://www.teledunet.tv:8888/osn_syfy.m3u8?world_list=2392.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:616,Osn Fatafeat
+http://www.teledunet.tv:8888/osn_fatafeat.m3u8?world_list=2362.ts&idu=mokelado_i6rguct0ts6dllm
+#EXTINF:618,Osn Wwe
+http://www.teledunet.tv:8888/osn_wwe.m3u8?world_list=2373.ts&idu=mokelado_i6rguct0ts6dllm
